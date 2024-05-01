@@ -1,0 +1,4419 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2759
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \CocoaLigature0 \
+Frost: 336.24771\
+Agnostic Front: 179.09506\
+Kitty Kallen: 165.45914\
+FU-Schnickens: 313.80853\
+Slackbaba: 488.25424\
+The Mars Volta: 521.63873\
+Sunscreem: 590.15791\
+Maximilian Hecker: 370.02404\
+Jacques Dutronc: 192.33914\
+Edmond Leung: 268.48608\
+Junior Reid: 326.00771\
+New York Dolls: 354.01098\
+Steve Erquiaga: 225.33179\
+The Shirrows: 361.9522\
+Screamin' Jay Hawkins: 301.13914\
+Carmen Y Laura: 174.70649\
+Jackie Edwards: 256.62649\
+Hoodfellas: 227.082\
+Mighty Joe Young: 253.51791\
+Charlie Khan: 208.24771\
+Michael Whalen: 436.53179\
+B\'fclent Ceylan: 348.29016\
+Salt-N-Pepa: 207.62077\
+Alfredo Kraus: 322.29832\
+Maroon 5: 270.70649\
+The Tarriers: 246.49098\
+Amorphis: 332.06812\
+The Flesh: 227.00363\
+Tam Tam Go!: 405.41995\
+Mike And The Mechanics: 283.24526\
+Captain Beefheart & The Magic Band: 206.57587\
+Atomic Rooster: 269.71383\
+David Zinman: 227.082\
+The Four Pennies: 156.57751\
+Thomas Dolby: 437.31546\
+Zeromancer: 362.31791\
+Jim Bryson: 276.21832\
+4 Skins: 250.48771\
+Martina McBride: 349.33506\
+Tha Liks: 294.13832\
+Joe Graves & The Diggers: 261.32853\
+Teenage Fanclub: 274.70322\
+Danielle Bollinger: 555.54567\
+Adrenalin O.D.: 142.65424\
+Ten Years After: 598.41261\
+Hins Cheung: 238.21016\
+Dora The Explorer: 169.09016\
+Black Eyed Peas: 229.61587\
+Vangelis: 1280.88771\
+Anita Kerr: 156.52526\
+Pedro Luis e a Parede: 229.45914\
+Fran Perea: 194.21995\
+Reach 454: 237.19138\
+Pery Ribeiro: 270.34077\
+Busdriver: 316.21179\
+Roy Brown: 276.97587\
+Unwritten Law: 216.81587\
+Behemoth: 341.2371\
+Kool Moe Dee: 397.5571\
+Madonna: 564.94975\
+DJ Clue / Fabolous Sport: 242.75546\
+Bobaflex: 151.43138\
+Benga: 277.55057\
+Hal Russell: 397.16526\
+Bert Kaempfert: 201.42975\
+Tommy James And The Shondells: 161.85424\
+Molesta Ewenement: 269.37424\
+Line Renaud: 207.04608\
+Autumnblaze: 286.24934\
+Chico Cesar: 238.23628\
+City High: 256.33914\
+Th\'e9ophil: 305.3971\
+Zagar feat. Underground Divas: 311.90159\
+Mau Mau: 745.40363\
+Neil Diamond: 267.57179\
+Gary Morris: 305.10975\
+North Mississippi Allstars: 219.0624\
+The Meatmen: 218.5922\
+Monika_ Wolfgang: 178.78159\
+Four Tet: 393.84771\
+Vincent Bruley: 920.76363\
+John Digweed: 460.79955\
+Death Cab for Cutie: 119.40526\
+High Strung_ The: 165.3024\
+Black Box: 272.14322\
+Time Factory: 244.45342\
+Alex Ubago: 216.58077\
+James Horner: 269.7922\
+Lacy J. Dalton: 186.8273\
+Jacky Cheung: 287.4771\
+Arctique: 468.00934\
+Mariah Carey: 652.40771\
+M\'e5negarm: 264.6722\
+April Wine: 214.43873\
+Cassius Clay: 246.96118\
+Mannheim Steamroller: 285.6224\
+Eric Burdon: 318.37995\
+Jean Corti: 183.19628\
+Vivian: 283.79383\
+Speech: 160.93995\
+Maria Callas/Eugenio Fernandi/Elisabeth Schwarzkopf/Giuseppe Nessi/Nicola Zaccaria/Mario Borriello/Renato Ercolani/Piero de Palma/Giulio Mauri/Elisabetta Fusco/Pinuccia Perotti/Coro del Teatro alla Scala_ Milano/Orchestra del Teatro alla Scala_ Milano/Tul: 172.90404\
+Moros Eros: 224.41751\
+Kurt Tepperwein: 1222.42567\
+Abrar - Ul - Haq: 301.16526\
+Seal: 828.05506\
+Pierre Perret: 277.21098\
+Scott Glasgow: 222.82404\
+Mary Black & General Humbert: 303.75138\
+Djelimady Tounkara: 487.33995\
+Faron Young: 168.72444\
+Harry Gregson-Williams: 284.682\
+Juan Diego Fl\'f3rez / Orquesta Sinf\'f3nica de Madrid / Jes\'fas L\'f3pez-Cobos: 87.32689\
+Jude Cole: 327.26159\
+Solomon: 834.24608\
+Christophe Beck: 150.09914\
+Blind Willie Johnson: 198.00771\
+Mike Vax: 229.61587\
+Capleton: 233.63873\
+Primordial: 508.3424\
+La 5A Estacion: 135.8624\
+Mar\'eda Elena Walsh: 164.54485\
+The Last Days Of Jesus: 292.57098\
+Stephan Micus: 1204.29669\
+Darden Smith: 270.62812\
+Radiohead: 281.12934\
+Dub Pistols feat. TK & Ashley Slater: 328.48934\
+Martin Sexton: 352.88771\
+The Chieftains: 231.1571\
+Kinky: 306.05016\
+Richard Souther: 283.27138\
+Berrog\'fcetto: 363.31057\
+Mark Lowry: 553.27302\
+Jackie Wilson: 182.49098\
+Solistiyhtye Suomi: 164.98893\
+Vodka Collins: 249.96526\
+William Orbit: 339.80036\
+Klimperei: 110.10567\
+Jane's Addiction: 355.63057\
+Edmundo Ros: 174.86322\
+King Tee: 153.57342\
+Chico Hamilton Quintet: 316.73424\
+Every Time I Die: 215.43138\
+The Killers: 527.98649\
+Save As: 337.81506\
+Dickies: 216.94649\
+Capone-N-Noreaga feat. Busta Rhymes and Ron Browz: 256.1824\
+Roy Rogers: 185.0771\
+Brenda Lee: 205.13914\
+Opals: 152.58077\
+George Schuller: 409.0771\
+Cornell Campbell: 215.01342\
+IMISKOUBRIA featuring Etsi De: 245.26322\
+Miossec: 225.90649\
+Faith Hill: 253.1522\
+Hoods: 175.3073\
+Kathy Mattea: 250.33098\
+The Winans: 319.60771\
+The Shirelles: 159.76444\
+Dee Clark: 178.49424\
+Jack Johnson: 264.82893\
+Streetwize: 307.33016\
+Catupecu Machu: 322.35057\
+Bingo Players: 171.49342\
+Leon Lai: 265.482\
+John Holt: 228.30975\
+Moraes Moreira: 280.65914\
+20/20: 302.36689\
+Rockit: 219.66322\
+Kris Gruen: 185.28608\
+Orbital: 933.642\
+Bonita: 288.57424\
+Betika_ Daouda: 286.77179\
+Mungo Jerry: 193.90649\
+Billy Pilgrim: 220.26404\
+Bryan White: 245.81179\
+ZO2: 346.51383\
+Dean Evenson: 203.93751\
+Brent Lamb: 250.38322\
+Johnny Horton: 148.79302\
+U2: 485.19791\
+Eddie: 317.962\
+Joe Bataan: 311.19628\
+Jose Luis Perales: 253.12608\
+Bill & Gloria Gaither: 318.45832\
+Angelo Badalamenti / Keira Knightley: 63.29424\
+Jeff And Sheri Easter: 279.84934\
+Carlos Vives: 262.24281\
+Joe Grushecky: 313.3122\
+Dakis: 224.07791\
+Lari White: 239.90812\
+Steven Halpern: 264.82893\
+Don Gibson: 184.68526\
+Dream Warriors: 414.24934\
+Fall Out Boy: 275.3824\
+Black Flag: 1030.19057\
+Professor Longhair: 242.31138\
+Lyrics Born: 445.49179\
+Nestor Torres: 330.23955\
+Henri Rene And His Orchestra: 168.54159\
+Jim Reeves: 175.01995\
+Disco D feat. Lola Damone & Helluva: 226.61179\
+Phil Collins: 392.82893\
+The Baltimore Consort: 614.00771\
+Wayne Watson: 304.19546\
+The Pharcyde: 315.97669\
+Mad Are Sane_ The: 228.8322\
+Mich\'e8le Bernard: 253.64853\
+Lara Fabian: 273.13587\
+Bad Azz: 285.93587\
+Olivier Messiaen: 647.60118\
+Crowbar: 270.73261\
+Workhorse: 370.85995\
+FFH: 277.62893\
+Bob Willis: 172.09424\
+Los Aut\'e9nticos Decadentes: 223.97342\
+Dynamite Deluxe: 152.92036\
+New Direction: 265.24689\
+Paris_ Texas: 225.67138\
+Hadag Nahash: 338.9122\
+John Mellencamp: 218.67057\
+Richie Ray & Bobby Cruz: 418.53342\
+Gene Pitney: 166.3473\
+Jos\'e9lito: 205.45261\
+Robben Ford: 367.98649\
+The James Taylor Quartet: 315.14077\
+Oscar Peterson Trio: 185.70404\
+Rick Astley: 317.83138\
+Dax Riggs: 158.51057\
+Porno For Pyros: 223.05914\
+DeGarmo & Key: 275.74812\
+Curtis Mayfield: 411.92444\
+My Little Airport: 125.70077\
+The Ronettes: 182.83057\
+Eiffel 65: 390.00771\
+Set Your Goals: 204.40771\
+Marisela: 232.14975\
+Jimmy McCracklin: 201.97832\
+Soulwax: 274.78159\
+Hysterie: 389.642\
+Marilyn Horne: 282.14812\
+Phantom Planet: 209.34485\
+Tony Joe White: 332.32934\
+The Doors: 434.15465\
+Jaco & Mixxmaster: 441.99138\
+Juan Farcik: 325.85098\
+Maria Callas/Gianni Raimondi/Gabriella Carturan/Plinio Clabassi/Nicola Rossi-Lemeni/Coro del Teatro alla Scala_ Milano/Noberto Mola/Orchestra del Teatro alla Scala_ Milano/Gianandrea Gavazzeni: 102.68689\
+Markus: 189.36118\
+Bob Marley & The Wailers: 320.15628\
+Charlie Louvin: 227.52608\
+Skeeter Davis: 168.48934\
+Usher Featuring The Nu Beginning: 338.75546\
+Blue Rodeo: 543.97342\
+Yuppie Pricks: 168.6722\
+The Ataris: 257.85424\
+Bloomfield: 353.69751\
+X-ecutioners featuring M.O.P.: 210.07628\
+ARRESTED DEVELOPMENT: 338.96444\
+The Jordanaires: 239.35955\
+Hacken Lee: 481.54077\
+DJ Rashad: 306.59873\
+Willie Barcena: 163.76118\
+Tones On Tail: 387.16036\
+Hevia: 331.88526\
+John Sebastian: 284.00281\
+Ayo: 534.62159\
+Dictafone: 307.98322\
+ATB: 479.76444\
+The Germs: 206.05342\
+Back Door Slam: 319.84281\
+Utopia: 449.2273\
+Patty Griffin: 256.39138\
+Laurie Berkner: 233.45587\
+Frank Stokes: 190.92853\
+Los Traileros Del Norte: 201.03791\
+Zombina & The Skeletones: 210.93832\
+Egberto Gismonti: 236.7473\
+Cedric Myton: 520.04526\
+Bela Fleck And The Flecktones: 368.53506\
+Massive T\'f6ne: 310.25587\
+Stefano Battaglia_ Giovanni Maier_ Michele Rabbia: 343.50975\
+Caramell: 218.40934\
+Gary Moore: 724.92363\
+Winston McAnuff_ The Bazbaz Orchestra: 225.04444\
+SNAP!: 404.37506\
+Leroy Huston: 291.57832\
+Bobby Broom: 481.48853\
+For Squirrels: 200.07138\
+Karen Peck And New River: 280.5024\
+Jake Hess: 298.89261\
+Joy Kitikonti: 413.04771\
+Alan Silvestri: 504.05832\
+Edelweiss: 201.42975\
+The Crystal Method: 357.642\
+Guaco: 265.29914\
+Edmundo Ros & His Orchestra: 183.14404\
+Arc Angels: 386.79465\
+Santana: 637.43955\
+Henri Pousseur: 1280.522\
+Jack Orsen feat. Fumanschu_ Justus: 210.54649\
+Handsome Boy Modeling School: 384.70485\
+P.O.D.: 255.73832\
+Jesse Malin: 261.17179\
+A Day To Remember: 245.96853\
+Namatjira: 291.63057\
+Alfredo Guti\'e9rrez: 171.80689\
+Ultimate Tracks: 279.40526\
+Ronnie Drew: 195.00363\
+Mississippi John Hurt: 271.22893\
+James Hunter: 188.73424\
+Emilio: 191.55546\
+Xmilk: 141.16526\
+Chacho: 460.69506\
+Savoy Brown: 171.62404\
+Frank Vignola: 234.44853\
+White Heart: 301.81832\
+Tri Atma: 325.04118\
+Alias: 310.72608\
+Shaggy / Brian & Tony Gold: 199.94077\
+The Cat's Miaow: 137.29914\
+Angela Dimitriou: 265.37751\
+D.A.D.: 283.16689\
+Jim Jones / Chink Santana: 289.74975\
+Neema: 227.02975\
+The Perrys: 255.26812\
+Gonzalo Rubalcaba: 598.62159\
+Penguin Caf\'e9 Orchestra: 293.72036\
+Giorgos Marinis: 286.37995\
+Roy Drusky: 192.10404\
+Margaret Becker: 292.10077\
+John Wesley: 484.62322\
+Plaza: 188.39465\
+Sick Of It All: 223.7122\
+Leila Chicot: 293.27628\
+Natasha Bedingfield: 377.25995\
+Flame: 259.18649\
+Timo Maas featuring MC Chikaboo: 333.87057\
+Ennio Morricone: 228.49261\
+Rustless: 119.53587\
+BMX Bandits: 208.40444\
+Havok: 238.07955\
+Raze: 938.00444\
+Los Salvajes: 229.14567\
+Parallel Sound: 556.69506\
+Bob Wills: 201.76934\
+Mr. Blue: 132.70159\
+Jean Segurel: 186.90567\
+Terry Callier: 342.56934\
+Eleanor McEvoy: 353.04444\
+Davol: 270.00118\
+Sensations: 165.19791\
+Gisele MacKenzie: 178.88608\
+Monster Magnet: 289.12281\
+Alexandre Desplat: 239.38567\
+KALIMBA: 352.67873\
+Dame Edna Everage with Carl Davis conducting the London Symphony Orchestra and The New Antipodean Singers: 494.15791\
+Despina Vandi: 307.87873\
+Superchumbo: 673.2273\
+The Small Knives: 208.16934\
+The Charms: 163.99628\
+Alice In Chains: 329.37751\
+The Plasmatics: 286.9024\
+Chase & Status: 398.54975\
+Orquesta Romantica de La Habana: 200.75057\
+Len Barry: 293.95546\
+Barbarito Diez: 183.43138\
+Lonnie Johnson: 298.13506\
+Steel Rain: 235.20608\
+Charlie Byrd: 471.43138\
+Blingtones: 39.05261\
+Orthrelm: 70.03383\
+Andy & Lucas: 289.12281\
+Danny Barnes: 169.482\
+The Knightsbridge Strings: 188.44689\
+Hot Tuna: 461.71383\
+Ricky Martin: 336.19546\
+Y\'f6lintu: 220.08118\
+Jerry Butler: 167.18322\
+Eden's Bridge: 337.13587\
+Tito Rodriguez: 222.98077\
+Saigon Kick: 368.1171\
+Erick Sermon: 235.51955\
+R. Carlos Nakai: 551.81016\
+Markscheider Kunst: 239.0722\
+Mighty Diamonds: 256.7571\
+Percy Faith & Felicia Sanders: 198.39955\
+Dann Huff: 160.73098\
+Prince: 500.29669\
+Frl.Menke: 229.51138\
+The Hollywood Brats: 367.49016\
+Chris Farlowe: 395.93751\
+The Nelons: 237.03465\
+Blind Blake: 220.26404\
+El Tiempo: 200.04526\
+Pink Floyd: 188.1073\
+Roger Miller: 146.23302\
+Carl Smith: 156.55138\
+Devo: 264.33261\
+Taboo: 301.71383\
+Salt The Wound: 241.162\
+Louisa Mark feat. Kevin Henry: 267.10159\
+NOFX: 158.11873\
+David Jalbert: 554.9971\
+Quinteto Violado: 391.00036\
+Crusaders: 117.68118\
+The Cate Brothers: 330.63138\
+Abbott & Chambers: 496.06485\
+Tommy Makem;The Clancy Brothers: 121.67791\
+Karnig Sarkissian: 476.47302\
+Proficy: 230.24281\
+Mikey Dread: 373.26322\
+Triana Pura: 252.9171\
+Cockney Rejects: 250.01751\
+Minnie Riperton: 224.67873\
+Slipknot: 397.24363\
+Mick Clarke: 165.72036\
+Ebru Yasar: 214.96118\
+Justin: 298.10893\
+Aisha Duo: 350.64118\
+Nick Cave & The Bad Seeds: 382.01424\
+Krystof: 301.24363\
+Olga Ta\'f1\'f3n: 279.53587\
+Alejandro Lerner: 267.31057\
+Toni Braxton: 267.2322\
+Elvin Bishop: 335.69914\
+Pepper: 264.59383\
+Tim Wilson: 186.48771\
+Goldfish: 432.14322\
+Josh Groban: 311.14404\
+Richard Galliano: 549.38077\
+Varios: 321.67138\
+Marc Dorsey: 301.50485\
+Natassa Theodoridou: 254.69342\
+Julissa: 262.73914\
+DJ Godfather: 333.00853\
+Fyah Blaze: 217.25995\
+Oesch's die Dritten: 227.05587\
+Sounds Of Blackness: 235.65016\
+Nightfall: 272.69179\
+Killswitch Engage: 254.45832\
+Guns N' Roses: 524.87791\
+Rhian Lois: 219.95057\
+Sharon Burch: 225.72363\
+Groupa Med Lena Willemark: 227.89179\
+Sergio Dalma: 279.24853\
+Billy Murray: 176.5873\
+Be Bop Deluxe: 312.58077\
+Leroy Hutson: 324.25751\
+Eclier: 322.19383\
+Tranzas: 213.7073\
+Steve Vai: 693.57669\
+The Roots: 340.40118\
+Fergie: 440.18893\
+Geier Sturzflug: 231.96689\
+Seguridad Social: 378.04363\
+Brazilian Tropical Orchestra: 198.32118\
+System of a Down: 217.59955\
+Sunidhi Chauhan / Anu Malik / Jatin Sharma: 319.32036\
+Al Di Meola: 291.02975\
+Antigone Rising: 213.55057\
+Princess Lover: 262.45179\
+The Blind Boys Of Alabama: 176.40444\
+Vex'd: 365.03465\
+Joe Bonamassa: 372.76689\
+Kieran: 243.25179\
+Marcel Mouloudji: 129.77587\
+An Cafe: 310.12526\
+The Roches: 338.33751\
+Randy Travis: 228.75383\
+Architecture In Helsinki: 345.75628\
+Aiden: 759.09179\
+Snow Patrol: 284.1073\
+Clockwise: 404.68853\
+Lighthouse Family: 241.8673\
+Serpentine: 285.70077\
+T.O.K.: 225.72363\
+Tony Tuff: 229.58975\
+Marvin Hamlisch;John Lithgow;Jeffrey Huard: 99.70893\
+Klaus Badelt: 592.56118\
+Aesop Rock: 310.80444\
+Aleks Syntek: 350.11873\
+Jimmie Vaughan: 260.72771\
+Mix Mob: 237.45261\
+Simply Red: 333.322\
+Casiotone For The Painfully Alone: 197.25016\
+Las Ni\'f1as: 217.62567\
+Christina Aguilera: 347.84608\
+Vincenzo: 439.17016\
+Maria & Margot Hellwig/Die Garmischer Alpenj\'e4ger: 202.52689\
+Bon Jovi: 432.97914\
+Melanie And The Secret Army: 255.58159\
+Frank Ifield: 163.60444\
+Cali: 339.80036\
+Daniel Johnston: 311.53587\
+Nolwenn Leroy: 201.22077\
+Kanye West: 271.25506\
+W.A.S.P.: 426.78812\
+Electric Light Orchestra: 205.40036\
+John P. Kee: 301.26975\
+The Clash: 308.50567\
+MxPx: 215.24853\
+Renato Borghetti: 150.80444\
+Bad Religion: 247.58812\
+Donna Ares: 194.71628\
+Kofi: 231.33995\
+Charly Garc\'eda: 300.14649\
+Missy Higgins: 267.65016\
+C.C. Adcock: 297.63873\
+A Tribe Called Quest: 251.14077\
+Cass Fox: 254.30159\
+Jericho: 223.92118\
+Jimi Hendrix: 528.14322\
+Kalibas: 164.20526\
+Heavenly: 327.6273\
+TYR: 293.38077\
+Daath: 267.78077\
+Donna Fargo: 149.62893\
+Selena: 388.51873\
+The Game: 323.082\
+Los Iracundos: 259.23873\
+Los Fabulosos Cadillacs: 273.78893\
+Clannad: 249.5473\
+Roger Creager: 277.55057\
+Jason Mraz: 740.46649\
+Poncho Sanchez: 427.07546\
+Badmarsh & Shri: 497.13587\
+Session Americana: 210.31138\
+Kristine W.: 533.89016\
+The Smashing Pumpkins: 399.98649\
+Rising Lion: 280.45016\
+Joe Turner / Pee Wee Crayton / Sonny Stitt: 459.93751\
+Roy Buchanan: 365.71383\
+Les Witches: 162.61179\
+Xzibit: 252.99546\
+A-Mei: 71.88853\
+MC5: 413.33506\
+Janitor Joe: 169.22077\
+Murderdolls: 147.51302\
+Owsley: 348.02893\
+Baroness: 354.79465\
+Joe McBride: 314.06975\
+Juan Carmona: 369.89342\
+Bone Thugs-N-Harmony: 266.05669\
+Human Disease: 190.79791\
+Kathy Troccoli: 282.20036\
+Thrice: 349.80526\
+Martha Wainwright: 287.08526\
+Los Originales De San Juan: 263.6273\
+Bottom Of The Hudson: 279.90159\
+Williamson: 354.06322\
+Big Daddy Kane: 190.82404\
+Joshua Rifkin: 282.09587\
+Piero Umiliani: 234.57914\
+Lauren Wood: 352.33914\
+Pedro Garcia & His Del Prado Orchestra: 190.37995\
+Soilent Green: 278.96118\
+Elliot Smith: 175.82975\
+Gustavo Cerati: 333.19138\
+Fleet Foxes: 281.18159\
+Andra\'e9 Crouch & Solid Gospel: 272.79628\
+Asleep At The Wheel: 399.04608\
+Rakim feat. Tracey Horton: 291.97016\
+Moss: 484.62322\
+Luciana Souza: 259.23873\
+Luciano: 215.53587\
+Orquesta Sublime: 222.14485\
+Michael Jackson: 289.38404\
+Busta Rhymes: 231.60118\
+Sub Focus: 292.98893\
+Theodore Shapiro: 109.84444\
+Taal: 17.73669\
+George Nooks: 252.3424\
+Hound Dog Taylor and The Houserockers: 335.28118\
+Samy Deluxe: 282.38322\
+Akon: 266.89261\
+Robert Lockwood_ Jr.: 340.87138\
+Mudhoney: 519.13098\
+Buckeye Politicians: 370.49424\
+The Mustangs: 174.57587\
+Joe Heaney: 194.66404\
+Jo Privat: 164.38812\
+Russ Morgan: 212.63628\
+First Blood: 283.48036\
+Dottie West: 187.53261\
+Cam'Ron: 231.94077\
+David Meece: 268.01587\
+Nikos Kalaintzis: 314.01751\
+Carlton Livingston: 201.97832\
+Daddy Yankee / May-Be: 199.47057\
+Suzi Quatro: 301.21751\
+T.G. Sheppard: 228.85832\
+Tom Barabas: 743.36608\
+Christian adam: 163.5522\
+Mac Dre: 256.83546\
+Junior Kimbrough: 384.57424\
+2raumwohnung: 449.38404\
+James Last: 260.12689\
+Eason Chan: 275.59138\
+Melissa Auf der Maur: 232.6722\
+Lil Boosie & Webbie: 354.16771\
+Iggy Pop: 300.77342\
+Poptart Monkeys: 212.32281\
+Willie Colon: 250.06975\
+Nicolas Bacchus: 215.01342\
+Arthur Fiedler: 496.1171\
+Kill The Client: 57.18159\
+Jars Of Clay: 223.89506\
+Bruce Robison: 184.05832\
+Desert Dwellers: 489.58649\
+The Freedom: 257.82812\
+Oscar Lima: 230.3473\
+Bad Company: 365.24363\
+The Chico Hamilton Quintet: 140.19873\
+AUDIO.3: 241.44934\
+The Primitives: 172.93016\
+Eddy Arnold: 183.50975\
+Vanessa Daou: 252.86485\
+Moving Cloud: 251.92444\
+Foghat: 501.2371\
+The Fire Theft: 223.37261\
+Jacques Douai: 191.65995\
+Tulipunaruusut: 224.46975\
+Dexy's Midnight Runners: 157.75302\
+J.B.Lenoir: 169.22077\
+Freddie King: 332.45995\
+DJ Guy: 237.08689\
+Johnny Vicious: 27.16689\
+Jerry Lewis: 446.37995\
+Sonora Carruseles: 297.79546\
+Nick Ingman;Gavyn Wright: 120.94649\
+Stevie Ray Vaughan And Double Trouble: 551.91465\
+Paris Musette: 132.07465\
+Barry Manilow: 247.24853\
+Kali: 601.99138\
+The Creation: 250.27873\
+Cindy Morgan: 295.10485\
+3 Doors Down: 278.90893\
+Manuel & The Music Of The Mountains: 158.14485\
+Gene Autry: 163.52608\
+Patrick Bruel: 263.94077\
+Charlie Byrd / Carlos Barbosa-Lima / Carlos Barbosa-Lima: 152.34567\
+Los Delinq\'fcentes: 192.1824\
+Eddie Turner: 306.78159\
+Seamus Egan: 277.18485\
+Andr\'e9 Verchuren: 194.82077\
+Antonis Remos: 253.23057\
+Gunther & the Sunshine Girls: 240.40444\
+Laurindo Almeida: 234.16118\
+Jimmy Riley: 239.90812\
+Republica: 264.22812\
+California Oranges: 330.1873\
+Temple Of The Dog: 243.9571\
+The Monroes: 260.0224\
+Geiom: 365.60934\
+Spooky Tooth / Mike Harrison: 384.7571\
+DJ Rashad featuring DJ Chi Boogie: 150.7522\
+Steve Riley & The Mamou Playboys: 241.65832\
+Derek Bailey: 237.53098\
+Jessica Simpson: 258.76853\
+Donnie McClurkin: 318.82404\
+David Hudson: 350.56281\
+Cactus: 310.64771\
+True Believers: 361.53424\
+Original Love: 345.7824\
+Click / Click_ M_Ferri: 451.49995\
+Francis Lai: 243.43465\
+Esperanza Spalding / Leo Genovese: 451.29098\
+Slum Village: 225.48853\
+Eagles: 427.36281\
+Josh Turner: 215.61424\
+Johnny Pacheco: 334.52363\
+James Taylor Quartet: 198.3473\
+Hank Penny: 170.47465\
+Christos Dantis: 251.08853\
+Endres: 154.01751\
+Nana Caymmi: 298.9971\
+Lou Reed: 211.66975\
+Annie Minogue Band: 217.88689\
+Milk Inc.: 430.65424\
+J-MACK: 231.81016\
+Bill Murk: 402.96444\
+R.L. Burnside: 277.78567\
+Simon Harris: 187.16689\
+Daywind Studio Musicians: 219.48036\
+Jason & The Scorchers: 252.49914\
+The Mystic Moods Orchestra: 207.09832\
+Sister Rosetta Tharpe: 162.40281\
+Denise Ho: 239.41179\
+Max Steiner: 163.39546\
+Cookies: 200.41098\
+Rihanna: 283.8722\
+Billy Walker: 133.56363\
+Love and Rockets: 311.19628\
+Jessie Lee Miller: 142.21016\
+DMZ: 178.96444\
+Candy Lo: 247.58812\
+Paul Glazby: 541.51791\
+Megadrums: 342.88281\
+Randy Stonehill: 229.90322\
+Lightforce: 397.26975\
+Dimmu Borgir: 331.04934\
+Jacques Ferchit: 157.09995\
+Fania All Stars: 342.30812\
+Africando All Stars: 274.25914\
+Jeanne Robertson: 486.42567\
+Cristy Lane: 196.80608\
+Sean Paul: 245.34159\
+Lupe Fiasco feat. GemStones: 216.60689\
+Sergio Mendes: 322.11546\
+Juan Carlos Baglietto: 274.99057\
+LL Cool J / Amil: 232.14975\
+GZA/The Genius: 237.34812\
+Gato Perez: 274.85995\
+Eddie Palmieri: 392.85506\
+Gaither Vocal Band: 276.74077\
+Twila Paris: 290.19383\
+Gustavo Santaolalla: 276.21832\
+Daler Mehndi;Chitra: 363.80689\
+Cabas: 284.31628\
+Otis Spann: 318.22322\
+UKW: 266.762\
+R.E.M.: 340.11383\
+Sheek Louch: 64.65261\
+Papp'os Blues: 418.45506\
+The Allies: 213.13261\
+Dale Russ / Finn MacGinty: 261.85098\
+Big Rich featuring Devo: 254.58893\
+The Party Group: 255.4771\
+Iggy And The Stooges: 347.53261\
+Porcupine Tree: 978.442\
+Kurtis Blow: 220.83873\
+Dario Marianelli: 262.94812\
+The Token: 128.1824\
+EPMD: 310.54322\
+Kent: 257.74975\
+Eric Demarsan: 150.17751\
+Tania Maria: 325.66812\
+Los Del Rio: 251.21914\
+The Jason Bonham Band: 290.19383\
+Pelt: 225.98485\
+Her Majesty's Finest: 149.34159\
+Anti-Flag: 359.6273\
+Less Than Jake: 257.01832\
+Tyrone Taylor: 290.16771\
+Dr. Elmo: 223.26812\
+Lupe Fiasco: 279.97995\
+Kuijken Kwartet: 184.86812\
+Julien Clerc: 272.63955\
+Yndio: 162.61179\
+Casey Bill Weldon: 202.78812\
+David Arkenstone: 508.89098\
+The Sonics_ Charlie & The Tunas: 243.1473\
+Kenny Rogers: 258.89914\
+Naughty By Nature featuring Phiness: 241.24036\
+The Cardigans: 296.85506\
+Les Hou-Lops: 181.86404\
+Mum: 242.18077\
+Andy Griffith: 215.48363\
+The Rolling Stones: 274.18077\
+Blind Lemon Jefferson: 201.79546\
+Anane: 225.07057\
+The Distillers: 448.54812\
+David Saylor: 273.34485\
+The Prodigy: 312.86812\
+Gertrudis: 263.47057\
+Arthur Tracy: 195.082\
+Gorillaz: 249.93914\
+Philippe Sarde: 528.22159\
+Carlos Baute: 236.77342\
+Clara Nunes: 213.49832\
+Huey Dunbar: 249.52118\
+Andrae Crouch: 352.86159\
+Silverchair: 312.13669\
+The Vaughan Brothers;Stevie Ray Vaughan;Jimmy Vaughan: 208.48281\
+Irish Tenors: 269.47873\
+Jean-Jacques Goldman;Edith Lefel;Malavoi: 238.44526\
+Mazz: 251.61098\
+Clementina De Jesus: 181.39383\
+Big Audio Dynamite: 424.22812\
+The Disposable Heroes Of Hiphoprisy: 241.52771\
+Headliners: 347.79383\
+The Velvet Underground: 276.68853\
+Sabda Brahma: 349.51791\
+Jean Marc Thibault: 138.94485\
+KT Tunstall: 308.63628\
+Ice & Breeze: 521.19465\
+Uman: 412.02893\
+Rick Ross: 199.8624\
+Information Society: 512.78322\
+Tinariwen: 336.32608\
+Murskahumppa: 285.17832\
+Cocoa Tea: 243.17342\
+Chris Camozzi: 276.40118\
+The Twinkle Brothers: 204.12036\
+Juan Carmona; Ricardo Larroze: 234.05669\
+Antonio Koudele: 318.48444\
+Jimmy Johnson: 287.32036\
+Miriam Yeung: 277.15873\
+Lili Ivanova: 268.53832\
+Alain Turban: 219.19302\
+brokeNCYDE: 262.89587\
+Mercedes Castro: 197.09342\
+Jimmy Page: 322.97751\
+Hushabye Baby: 227.52608\
+The Rance Allen Group: 337.162\
+Coldplay: 410.8273\
+RIDDLIN' KIDS: 195.65669\
+Regina Belle: 307.33016\
+Eumir Deodato: 397.66159\
+Sammi Cheng: 295.57506\
+Los Del Rio_ The D.E.Y.: 206.68036\
+The Mighty Mighty Bosstones: 196.10077\
+Jonn Serrie: 781.60934\
+Fontella Bass: 204.35546\
+Tampa Red: 181.08036\
+Gang Of Four: 273.99791\
+Mich\'e8le Crider;Vincenzo La Scola;Samuel Ramey;Riccardo Muti: 216.68526\
+Zombie Girl: 273.34485\
+A Perfect Murder: 229.79873\
+Clarence Gatemouth Brown: 333.37424\
+Ray Lynch: 283.74159\
+Lady Saw: 272.69179\
+Necrodaemon: 225.59302\
+Rocio Jurado: 359.65342\
+Scott Krippayne: 244.87138\
+M: 259.83955\
+OV7: 239.67302\
+Ancient Astronauts: 331.59791\
+Pumpkin Buzzard: 271.49016\
+John Cale: 624.66567\
+Fredi: 243.722\
+Camp Lo: 267.17995\
+Nightwish: 834.66404\
+Shakira: 409.99138\
+Heavy D: 212.24444\
+Butthole Surfers: 512.1824\
+Brooke Valentine: 261.53751\
+DJ Omega: 260.80608\
+Snowgoons: 257.25342\
+Peret: 286.17098\
+Dennis Brown: 468.16608\
+Kingston Trio: 199.94077\
+Josh Mullins: 193.72363\
+Wyclef Jean featuring will.i.am and Melissa Jim\'e9nez;Wyclef Jean featuring Machel Montano_ Daniela Mercury_ Black Alex_ and Djakout Mizik: 809.58649\
+The Wilburns: 232.28036\
+David Banner: 183.90159\
+Portobello: 304.84853\
+Spitfire: 200.09751\
+One Be Lo: 164.85832\
+Warner mack: 160.20853\
+Niraj Chag: 293.40689\
+Bodies In the Gears of the Apparatus: 126.17098\
+Bionikworld: 413.51791\
+Bullet For My Valentine: 223.76444\
+Brian Tyler: 128.54812\
+The Rascals: 231.99302\
+The New York Dolls: 344.45016\
+Nora: 198.63465\
+B.B. King: 237.66159\
+Liquid Spill: 376.16281\
+Led Zeppelin: 330.78812\
+Various Production: 366.23628\
+Sukshinder Shinda: 303.882\
+The Beatles / Tony Sheridan: 130.95138\
+Aerosmith: 425.03791\
+The Black Crowes: 404.58404\
+You Should Go Ahead: 234.78812\
+Lil Wayne: 98.16771\
+Placebo: 260.75383\
+Barbara Lusch: 263.81016\
+Timo Maas: 417.56689\
+Studio: 568.99873\
+Warrant: 244.08771\
+Pete Miser: 224.02567\
+Harry Choates: 177.78893\
+Spade Cooley: 181.31546\
+Bon Jovi / Ray Davies: 336.84853\
+Bill Cosby: 498.33751\
+Klubbingman feat. Beatrix Delgado: 333.21751\
+Dylan Kuo: 230.29506\
+Robert Palmer: 299.78077\
+Galactic: 238.96771\
+The Bronx Horns: 265.61261\
+Precious Bryant: 193.72363\
+D.R.S.: 237.16526\
+Audio Adrenaline: 285.83138\
+Leona Naess: 645.38077\
+Paul Taylor: 453.58975\
+Joey McIntyre: 173.322\
+Greek Gypsy Musicians: 214.72608\
+Vixen: 259.60444\
+VHS Or Beta: 508.02893\
+Kol Simcha: 548.38812\
+Bill Douglas: 331.07546\
+Crematorium: 210.1024\
+Novaspace: 389.61587\
+Hector: 282.64444\
+Jorge Alfano: 275.82649\
+George Jones: 232.51546\
+Steel Pulse: 266.05669\
+Joe Rogan: 356.362\
+Carroll Thompson: 425.19465\
+Intars Busulis: 229.11955\
+Phil Vassar: 265.24689\
+The Bongo Man: 447.58159\
+Jim Kweskin with Samoa Wilson: 325.35465\
+Crucial Conflict: 230.5824\
+Darwin Hobbs: 621.7922\
+The Forms: 208.14322\
+Sophie B. Hawkins: 316.76036\
+Cake: 210.07628\
+Messy Marv: 199.26159\
+Bessie Smith: 195.70893\
+Planxty: 345.70404\
+Talking Heads: 355.73506\
+Spooky Tooth: 545.74975\
+HardNox: 228.80608\
+Paso Doble: 330.37016\
+Leann Rimes & Brian McFadden: 224.83546\
+Albin Myers: 493.29587\
+2XL: 230.37342\
+Agency 1.9.9.4: 230.37342\
+Pee Wee King: 182.282\
+Pescado Rabioso: 579.44771\
+Marcel Azzola: 323.39546\
+John Fogerty: 354.35057\
+Scweez: 204.32934\
+Fl\'e4skkvartetten / Daniel Bellqvist: 258.16771\
+DJ Harry: 495.90812\
+Nazz: 220.89098\
+Winds Of Plague: 270.13179\
+Basic Channel: 811.2322\
+Funeral For A Friend: 261.14567\
+Sweet: 318.9024\
+Sound Field: 564.37506\
+Perrey And Kingsley: 137.19465\
+Hatebreed: 209.05751\
+Pam Thum: 291.02975\
+Barbara Fairchild: 329.24689\
+David Guetta - Joachim Garraud - Chris Willis: 432.90077\
+Yolandita Monge: 214.49098\
+The Harvard Lampoon Comedians: 77.21751\
+Flor Silvestre: 207.75138\
+X-ecutioners featuring Tom Tom Club & Biz Markie: 236.43383\
+Moon Mullican: 181.31546\
+Ciaran Byrne: 150.282\
+Pete Bamboo: 290.37669\
+Static-X: 268.06812\
+The Del McCoury Band: 234.16118\
+Hollowtip: 265.82159\
+Furry Lewis: 234.78812\
+Year of Desolation: 337.76281\
+3 of Hearts: 224.07791\
+Dave Eggar: 240.09098\
+Liars: 265.09016\
+Blackfoot: 316.99546\
+Michael Salgado: 221.64853\
+Pitch Black: 398.602\
+Noem\'ed: 178.23302\
+UFO: 1819.76771\
+Reptil: 220.3424\
+YZ: 287.37261\
+Mr Brown: 266.44853\
+Firehouse: 285.3873\
+Douglas Miller: 247.09179\
+Criminal Class USA is Hush Hush Revolution: 174.18404\
+Will Ackerman: 384.60036\
+Azukx: 438.90893\
+Les Rythmes Digitales feat. Nik Kershaw: 297.45587\
+Angela Lashley: 196.17914\
+Emilio Tuero: 194.24608\
+Dennis O'Neill: 384.62649\
+Bitty McLean: 246.46485\
+Knack: 285.51791\
+Open Hand: 486.97424\
+Joe Lynn Turner: 304.66567\
+Howie Day: 277.002\
+Tyrone Wells: 252.65587\
+The Jackson Southernaires: 356.10077\
+RUN-DMC: 446.32771\
+Bobby Pulido: 233.06404\
+Little Milton: 438.88281\
+Giorgos Sabanis: 247.66649\
+30 Seconds To Mars: 472.39791\
+Charlie Peacock: 355.34322\
+Scott Ainslie: 208.1171\
+Jay P\'e9rez: 223.65995\
+Shelly Manne: 255.39873\
+Chris Eaton: 289.07057\
+Eighteen Visions: 172.19873\
+Ann Nesby / Jamecia Bennett: 340.79302\
+Bobby Valentin: 177.50159\
+fIREHOSE: 201.22077\
+Mase: 263.18322\
+Ragheb Alama: 413.36118\
+Swans Of Avon: 228.41424\
+Kitaro: 428.72118\
+John Mayer: 407.45751\
+Les Brown: 203.7024\
+Mister Ries featuring Six Foe: 193.82812\
+Cece Winans: 292.51873\
+Sandi Thom: 425.19465\
+PATSY CLINE & WILLIE NELSON: 175.41179\
+Black Sheep: 248.37179\
+El Gran Combo De Puerto Rico: 271.64689\
+Dyango: 248.16281\
+Malkit Singh: 430.94159\
+Silverstein: 256.46975\
+Fabolous: 319.92118\
+David Bowie: 369.13587\
+Carlos Nu\'f1ez: 275.43465\
+K's Choice: 252.83873\
+Sex Pistols: 216.60689\
+Cutting Edge: 358.71302\
+Brainchoke: 91.01016\
+Tresenlesen: 513.61914\
+Gary Go: 217.86077\
+Kai Winding: 223.4771\
+He Is Legend: 207.12444\
+Hot Club Of Cowtown: 203.96363\
+Ultraviolence: 367.41179\
+Pat Metheny: 711.70567\
+The Weegs: 192.20853\
+Bloc Party: 247.97995\
+DJ Quik: 260.362\
+Young-Holt Unlimited: 266.05669\
+Earth: 861.83138\
+Caspa: 371.64363\
+Rachel Loy: 199.8624\
+unloco: 362.34404\
+Hank Locklin: 168.6722\
+Angels: 235.17995\
+STEVE CAMP: 296.14975\
+Helen Hobson: 176.97914\
+Hard Romantic: 267.7024\
+The Jordanaires & Orion: 97.69751\
+Mish Mash: 254.32771\
+Los Chichos: 242.80771\
+Elvira: 291.89179\
+Guy Forsyth: 261.8771\
+Melt Banana: 51.61751\
+Non Stop DJs: 237.92281\
+Roger Sanchez: 589.87057\
+John Mayall: 264.6722\
+Yami Bolo: 234.03057\
+Angelica Maria: 160.83546\
+Grandmaster Flash: 197.79873\
+Franco_ Valeriana: 205.50485\
+Deftones: 334.75873\
+Spliff: 264.41098\
+Marc Shaiman: 165.72036\
+Nightswimmer: 281.80853\
+H-Town: 289.30567\
+Norman Howard: 417.48853\
+Richard Galliano_ Jean-Charles Capon_ Gilles Perrin: 347.6371\
+Alice Cooper: 210.54649\
+The Gathering: 363.31057\
+Daryl Hall & John Oates: 299.49342\
+Remy Shand: 250.77506\
+Dan Hicks: 159.9473\
+The Katinas: 159.26812\
+bel canto: 78.49751\
+Maracaibo 15: 171.98975\
+Shade Sheist / N.U.N.E. / King Arthur: 262.3473\
+Irini Merkouri: 237.81832\
+Elakelaiset: 218.27873\
+Joanna Connor: 243.66975\
+Baby Rasta & Gringo: 219.95057\
+Frenchy: 246.17751\
+Ghetto Mafia: 286.37995\
+Charlie Byrd Trio: 267.4673\
+Light Of The World: 251.92444\
+Free: 273.52771\
+Bedrock: 501.86404\
+Alicia Keys: 255.99955\
+[kaleidoskop]: 320.522\
+Joe Lopez: 199.36608\
+Glen Ricks: 242.20689\
+Christie Hennessy: 332.69506\
+Jesus Jones: 269.29587\
+Harvey Averne: 185.20771\
+Virtuoso: 277.7073\
+P.o.d: 267.80689\
+Adam Ant: 233.40363\
+Total Fucking Destruction: 132.17914\
+Sunnyland Slim: 344.71138\
+Gwen Stefani: 294.19057\
+Zbigniew Preisner: 146.46812\
+T.I.: 266.84036\
+Moist: 360.98567\
+Commander Cody And His Lost Planet Airmen: 205.71383\
+Marco Beltrami: 256.39138\
+Naughty By Nature: 330.08281\
+Faiz Ali Faiz: 879.69914\
+Eminem: 397.60934\
+SUMO: 215.11791\
+The Zebras: 131.68281\
+Vana: 227.082\
+Wilks: 274.05016\
+Weezer: 228.44036\
+Buzzov\'acen: 333.58322\
+Michael Stanley Band: 346.56608\
+Mar Azul: 165.11955\
+Life In Your Way: 198.05995\
+The King Sisters: 195.89179\
+Fred Merpol: 345.10322\
+\'c9tienne Daho: 288.49587\
+Punk'd Royal: 276.37506\
+22-20s: 317.46567\
+Twenty 4 Seven: 223.18975\
+Suicidal Tendencies: 312.55465\
+Nicky B_ Na\'eblle: 251.55873\
+Rita Chiarelli: 278.33424\
+Estopa: 226.5073\
+Steve Morse: 363.85914\
+Fredericks_ Goldman_ Jones: 344.21506\
+Sleepy John Estes: 197.0673\
+Bo Carter: 162.24608\
+Bill Engvall: 482.21995\
+Bob Carlisle: 331.25832\
+Tomorrow: 173.26975\
+Los Chunguitos: 215.32689\
+Brian Dullaghan: 212.94975\
+Fito Paez: 284.26404\
+King Swamp: 341.002\
+H\'e9lio Ziskind: 148.50567\
+Groundhogs: 1023.86893\
+Fruko Y Sus Tesos: 264.61995\
+The Five Stairsteps: 165.74649\
+Daryl Coley Featuring the New Generation Singers Reunion Choir: 274.93832\
+Limbonic Art: 293.04118\
+Bobby Darin: 352.20853\
+Trick Trick / Obie Trice: 266.78812\
+Erik Berglund: 1815.2224\
+Mario Rosenstock: 361.82159\
+Lee Michaels: 299.4673\
+Joey Negro: 535.69261\
+Papa Wemba: 406.62159\
+Eddie Cano: 225.17506\
+Lizzy Borden: 386.66404\
+Zeca Baleiro: 364.72118\
+Richard Smith: 277.002\
+Dendemann: 221.98812\
+The Highwaymen: 282.33098\
+Radio Birdman: 174.28853\
+Digital Mystikz: 299.49342\
+Ned Miller: 131.83955\
+Francis Dhomont: 540.49914\
+Music Explosion: 155.11465\
+Pictures of Then: 182.83057\
+The Shamrock Singers: 393.76934\
+Charly Garcia: 162.71628\
+Call To Preserve: 199.78404\
+Lit: 246.80444\
+Kiss: 290.84689\
+Ai Ai Ai: 253.98812\
+Ziggy Marley And The Melody Makers: 335.90812\
+Cachao: 84.94975\
+Heaven 17: 354.19383\
+Ben Jelen: 240.32608\
+Janet Jackson: 263.02649\
+Vulture Industries: 379.29751\
+Roni Size: 397.08689\
+Michael McDonald: 296.202\
+Astarte: 568.78975\
+Mustafa Sandal: 227.65669\
+Bruno Sanfilippo: 398.602\
+Schoolyard Heroes: 277.96853\
+The Last Vegas: 237.11302\
+Janet Jackson Featuring Kanye West: 257.14893\
+Beneath The Sky: 275.9571\
+Ill Harmonics: 267.88526\
+DJ Isaac: 599.24853\
+Beyonc\'e9: 466.05016\
+Alexander Zonjic: 259.21261\
+Monique Morelli: 196.44036\
+Red Hot Chili Peppers: 367.01995\
+Billie Jo Spears: 212.32281\
+Tunsi: 237.7922\
+Vincent Baguian: 167.65342\
+Seventh Day Slumber: 287.73832\
+Jennifer Lopez: 275.69587\
+David Rose & His Orchestra: 179.98322\
+Dark Shadows: 116.6624\
+Najoua Belyzel: 237.71383\
+Jane Winther: 345.0771\
+G Unit ft. 50 Cent_ Lloyd Banks & Tony Yayo: 202.10893\
+Jazz Gillum: 191.86893\
+Truckfighters: 270.44526\
+Petra: 262.21669\
+Skeletonwitch: 252.08118\
+Leigh Jones: 279.74485\
+Peggy Lee: 200.6722\
+Eugene McDaniels: 213.15873\
+Lexie Mountain Boys: 247.11791\
+Onesidezero: 281.12934\
+Connie Smith: 148.63628\
+Roberto Torres: 276.00934\
+Tito Puent\'e9: 362.50077\
+Captain Hollywood Project: 372.27057\
+DJ Primo: 243.06893\
+BT: 506.27873\
+Orenda: 514.0371\
+The Advantage: 99.00363\
+Nick Ingman: 186.61832\
+Keep Of Kalessin: 340.4273\
+Mongo Santamaria: 428.06812\
+Juana Molina: 401.65832\
+Styles P: 229.14567\
+Tammy Wynette: 159.60771\
+Pepe Romero: 397.06077\
+1. Futurologischer Congress: 204.93016\
+Ann Nesby: 243.01669\
+Aaron Watson: 257.35791\
+John Hammond: 262.16444\
+David Banner / Sky / Marcus: 263.47057\
+Eagles Of Death Metal: 225.48853\
+Peter Hunningale: 226.87302\
+POLINA: 203.49342\
+T Lavitz: 46.00118\
+The Impressions: 281.65179\
+Morton Gould: 1610.00444\
+Solas: 255.97342\
+John Williams: 268.90404\
+Sam Baker: 167.10485\
+Mr. De': 334.54975\
+Panic! At The Disco: 210.25914\
+Eduardo Fernandez: 120.89424\
+The Fureys: 398.10567\
+Patrizia Pace/Waltraud Meier/Frank Lopardo/James Morris/Swedish Radio Choir/Stockholm Chamber Choir/Berliner Philharmoniker/Riccardo Muti: 212.4273\
+Birmingham Jubilee Singers: 200.17587\
+El Barrio: 306.31138\
+Darwin's Waiting Room: 204.79955\
+Mademoiselle Sane: 217.62567\
+Juan Diego Fl\'f3rez / Mariusz Kwiecen / Orquestra de la Comunitat Valenciana / Daniel Oren: 497.89342\
+John Mayall & The Bluesbreakers: 292.91057\
+TAKARU: 128.33914\
+Shinehead: 250.85342\
+Creedence Clearwater Revived: 610.01098\
+Percy Faith: 166.05995\
+Thomas Battenstein: 342.20363\
+Dorothy Norwood: 512.91383\
+Bobby Hutcherson: 399.51628\
+Confetti's: 312.45016\
+Vinylbase: 361.79546\
+Small Faces: 248.24118\
+Alternative TV: 305.71057\
+Population Reduction: 172.48608\
+Aeoliah: 307.09506\
+Jean-Jacques Goldman: 558.44526\
+Fajardo: 118.85669\
+Maria Muldaur: 411.01016\
+Francky Vincent: 261.74649\
+Michael Bloomfield: 310.59546\
+Tim Hornsby: 89.62567\
+Jerry Reed: 138.4224\
+Ana Popovic: 322.66404\
+Defari: 178.72934\
+Los Cisnes: 182.72608\
+Bounty Killer: 227.5522\
+Gyptian: 253.70077\
+Maire Brennan: 248.34567\
+Cut Copy: 312.08444\
+Paul Stanley: 191.55546\
+2 Minutos: 179.09506\
+Fastway: 318.9024\
+Henry Mancini: 187.74159\
+Rainforest Trio: 291.39546\
+John D. Loudermilk: 252.682\
+Deepface: 362.68363\
+Lily Allen: 277.83791\
+Alexander O'Neal: 301.45261\
+Shamen: 600.37179\
+Soul Ballet: 462.07955\
+Rubyhorse: 266.03057\
+Wyclef Jean featuring Prodigy of Mobb Deep: 237.50485\
+Al DiMeola: 319.84281\
+Camerata Brasil: 282.3571\
+T-Bone Walker: 174.96771\
+Black Debbath: 278.46485\
+Socialburn: 241.84118\
+Sal Mineo: 149.9424\
+X-Raided featuring Teddy Bear_ Big Pook_ T-Nutty: 260.44036\
+The Continentals: 179.06893\
+Mike Bloomfield: 320.1824\
+Toots Thielemans: 302.62812\
+Rolfe Kent: 112.16934\
+Sade: 298.89261\
+Kiprich: 208.3522\
+50 Cent: 255.63383\
+Cyndi Wang: 260.98893\
+Jason Miles: 294.76526\
+The Capitol Years: 242.02404\
+Danny Wright: 240.53506\
+Robin Beanland/Dweezil Zappa/Nile Rodgers/Rabbit In The Moon: 131.65669\
+The Abominable Iron Sloth: 130.45506\
+Jah Cure: 287.65995\
+Long Beach Dub Allstars: 282.61832\
+Enrique Iglesias: 263.81016\
+Cradle Of Filth: 358.37342\
+Pablo Montero: 202.34404\
+4Him: 296.98567\
+David Benoit: 274.1024\
+Major Lazer: 352.02567\
+Delbert McClinton: 251.29751\
+The Maine: 209.00526\
+The Jets: 280.65914\
+Bryan Ferry: 274.28526\
+Toby Love: 255.05914\
+Bruce Rowland: 138.762\
+Saman: 339.06893\
+Jimmy Cliff: 301.71383\
+Gisselle: 268.87791\
+Beastie Boys: 248.13669\
+The Real Kids: 263.75791\
+Happy Mondays: 389.0673\
+Atom: 439.06567\
+Caf\'e9 Quijano: 262.37342\
+The Fool'S Nose: 202.00444\
+Mike Jones: 364.77342\
+Marvin Hamlisch: 209.34485\
+Zuma: 735.60771\
+Meiway: 288.62649\
+Olive: 211.35628\
+Power Pill Fist: 291.42159\
+Britny Fox: 285.02159\
+Pinchers: 229.01506\
+Olivia Ruiz: 252.86485\
+Gal Costa: 252.02893\
+Smut Peddlers: 167.60118\
+DJ Spinn: 312.94649\
+Liam O'Flynn: 234.10893\
+Tiny Bradshaw: 165.35465\
+Floor: 211.90485\
+Soul Mekanik: 447.08526\
+Georges Delerue: 417.12281\
+The California Cajun Orchestra: 172.48608\
+The London Theatre Orchestra: 175.59465\
+Pagan Wanderer Lu: 346.25261\
+Chris Rea: 308.45342\
+Steve Harvey: 268.45995\
+Eddy Raven: 223.26812\
+Taking Back Sunday: 227.57832\
+Rory Block: 266.05669\
+Mariah Carey Featuring Da Brat & JD: 314.122\
+X-tv: 332.79955\
+Memphis Jug Band: 187.53261\
+LaWanda Page: 187.76771\
+Irma Thomas: 240.69179\
+Lole y Manuel: 145.55383\
+Kathleen Madigan: 225.61914\
+Irwin Goodman: 231.47057\
+32 Leaves: 233.66485\
+Louie Ramirez: 174.10567\
+Ol' Dirty Bastard: 181.62893\
+Claire Hamill: 313.05098\
+Rockabye Baby!: 312.78975\
+Barbara Carr: 147.66975\
+Axe: 211.53914\
+Evanescence: 331.36281\
+Naseebo Lal: 518.81751\
+Marygold: 227.05587\
+Joe Derrane_ Frankie Gavin_ Brian McGrath: 281.39057\
+Dave Valentin: 277.21098\
+Casual: 270.78485\
+Archie Bell and The Drells: 193.95873\
+Hall & Oates: 170.29179\
+Champion Jack Dupree: 254.24934\
+Los Nakos: 286.77179\
+Airto Moreira: 312.99873\
+Low Millions: 193.38404\
+Devine and emilyPLAY: 375.48363\
+Don Francisco: 395.15383\
+Stew: 569.20771\
+Die Fantastischen Vier: 316.55138\
+DJ Nasty: 236.56444\
+Blanks77: 121.02485\
+Beenie Man: 241.26649\
+Big Rich: 274.23302\
+Porter Wagoner: 152.34567\
+Mel Blanc: 912.97914\
+Fulanito: 247.14404\
+Three 6 Mafia: 213.60281\
+Warrior King: 225.77587\
+Dj Kali: 347.61098\
+The Fabulous Thunderbirds: 342.20363\
+DJ X-Change featuring DJ Omega: 147.06893\
+Art Ensemble Of Chicago: 384.54812\
+Tilman Sillescu: 123.24526\
+The Box Tops: 177.3971\
+Sister Hazel: 332.93016\
+George Michael: 308.76689\
+Little Joe & The Thrillers: 143.67302\
+Peter Tosh & Winston Scotland: 328.4371\
+Sonic Subjunkies: 327.73179\
+Home Town Hero: 206.88934\
+Sharon Shannon: 191.92118\
+Beogradski Sindikat: 415.50322\
+Grandpa Jones: 159.60771\
+Lara: 211.90485\
+Buzzcocks: 219.19302\
+Quadro Nuevo: 272.92689\
+Singing Melody: 251.11465\
+Dave Alvin: 354.19383\
+Mush: 475.74159\
+Darryl Worley: 261.642\
+Hawkshaw Hawkins: 71.1571\
+Wednesday 13: 275.48689\
+Sandy Lam: 299.44118\
+\'c4I-TIEM: 323.3171\
+The Sun Harbor's Chorus-Documentary Recordings: 206.91546\
+Konexion: 405.78567\
+Luisito Rosario: 302.602\
+The Motors: 393.61261\
+Photek: 421.19791\
+Montserrat Caball\'e9/Orchestra of the Royal Opera House_ Covent Garden/Carlo Maria Giulini: 168.56771\
+David Rose: 292.80608\
+Constance Demby: 285.75302\
+Monomonkey: 222.30159\
+Aram Shelton: 540.52526\
+Kaija Koo: 240.45669\
+Abysmal Dawn: 261.43302\
+Maurice Larcange: 276.53179\
+DMX: 306.05016\
+Charlotte Gainsbourg: 241.65832\
+C.L. Smooth: 185.18159\
+Oliver Kalkofe: 549.3024\
+Chatelaine: 150.17751\
+Tigertailz: 309.18485\
+Les Malpolis: 298.89261\
+Dub Pistols feat. Rodney P & Terry Hall: 323.57832\
+David Evans: 250.56608\
+Vanessa Bell Armstrong: 419.68281\
+Talib Kweli: 222.11873\
+Sapo: 219.74159\
+Vince Guaraldi: 270.75873\
+Hinge: 247.48363\
+Fixx_ The: 276.4273\
+Grupo Batuque: 388.96281\
+Avril Lavigne: 260.44036\
+Musical Youth: 183.01342\
+Van Halen: 324.23138\
+Livio Minafra: 409.73016\
+The White Stripes: 274.59873\
+Ras Michael and the Sons of Negus: 243.98322\
+Elizabeth Cotten: 476.18567\
+Controlled Dissonance: 424.85506\
+Basement Jaxx: 521.79546\
+Stargarden: 423.70567\
+(hed) p.e.: 12.95628\
+Conway Twitty: 175.51628\
+Birdapres: 234.57914\
+Ma Rainey: 188.94322\
+Mister Ries: 191.7122\
+Mavado: 255.16363\
+Arthur Brown: 422.16444\
+The Reverend Peyton's Big Damn Band: 179.46077\
+Walter Jackson: 269.00853\
+The Police: 318.01424\
+Ace Frehley: 379.32363\
+Luis Alberto Spinetta: 355.29098\
+Gal Costa / Maria Beth\'e2nia: 231.70567\
+Glen Washington: 237.19138\
+Riamiwo: 303.72526\
+Jo\'e3o Gilberto: 333.89669\
+Queens Of The Stone Age: 288.41751\
+Daddy Dog: 196.96281\
+George Harrison: 359.73179\
+Pat Green: 295.75791\
+DJ DLG feat. MC Flipside: 377.62567\
+King Curtis: 326.00771\
+Reel Big Fish: 253.09995\
+The Dillinger Escape Plan: 281.23383\
+Jimmy Wayne: 232.64608\
+US Coast Guard Band: 207.93424\
+Descendents: 183.90159\
+The Presets: 351.32036\
+Benabar: 238.44526\
+Ashes to Ashes: 254.32771\
+Kathy Troccoli with Aaron Jeoffrey: 417.72363\
+David Tao: 261.82485\
+Big Mike Griffin: 233.53424\
+Blessid Union Of Souls: 238.94159\
+Elephant Man: 233.58649\
+Mary Black: 310.20363\
+Dobet Gnahor\'e9: 274.54649\
+Fiona Sit: 232.48934\
+Big Maybelle: 156.96934\
+Virus: 529.03138\
+Lara & Reyes: 319.84281\
+Danny Williams: 249.93914\
+The Gone Jackals: 248.18893\
+Jope Ruonansuu: 216.63302\
+Marlene Dietrich: 190.04036\
+Goose: 395.85914\
+The Mad Capsule Markets: 244.55791\
+Jim Kweskin_ The Jug Band: 236.79955\
+Doug MacLeod: 359.52281\
+Jeff Scott Soto: 771.89179\
+Kraftwerk: 531.61751\
+Frank Sinatra: 166.05995\
+John Michael Talbot: 283.27138\
+K.A.L.I.: 216.29342\
+Gall_ France: 162.79465\
+Cassidy featuring R. Kelly: 247.24853\
+Eric B. & Rakim: 335.01995\
+Muse: 312.05832\
+Monty: 195.60444\
+Oui Oui: 174.15791\
+Muzsikas: 351.50322\
+The Marx Brothers: 431.51628\
+Chimaira: 342.36036\
+Ricardo Arjona: 403.25179\
+Abner Burnette: 425.37751\
+Nicholas Hooper: 214.90893\
+Joe Satriani: 469.60281\
+Vuneny: 263.41832\
+Los Jaig\'fcey: 293.92934\
+Sub Swara: 343.35302\
+Vienna Concert House Orchestra_ Wiener S\'e4ngerknaben_ Ferdinand Grossmann: 178.65098\
+Gran Coquivacoa_ Neguito Borjas: 345.33832\
+Tum Tum: 231.33995\
+NG3: 240.50893\
+Slim Harpo: 153.67791\
+Arsonists Get All The Girls: 240.92689\
+Stimulator: 213.55057\
+X (Australia): 90.8273\
+Scott Matthews: 325.48526\
+Doc Pomus: 153.73016\
+Humble Pie: 974.99383\
+The Sonics: 171.15383\
+Bongzilla: 475.11465\
+Gabriel Grossi: 253.43955\
+Organ Donors: 455.44444\
+Leeroy Stagger: 304.22159\
+Easy Star All-Stars: 196.23138\
+Laura Leon: 92.13342\
+Luiz Bonfa / Oscar Castro Neves / Lalo Schifrin: 186.67057\
+Jennifer Brown: 259.23873\
+Goldfinger: 204.25098\
+Pierre Boulez: 956.60363\
+Stephen Pearcy: 216.63302\
+Boogie Pimps: 415.03302\
+Eluveitie: 307.69587\
+Disco D: 235.07546\
+Josh White: 181.49832\
+The American Boychoir: 329.03791\
+Alvino Rey And His Orchestra: 193.74975\
+Sinch: 300.72118\
+Broadcast: 302.52363\
+The Insects: 226.40281\
+Dinosaur Jr: 298.57914\
+Flamin' Groovies: 207.28118\
+Atreyu: 267.17995\
+Wyclef Jean: 319.97342\
+Kim English: 387.26485\
+Deodato: 378.09587\
+Swami: 259.91791\
+Sonora Santanera: 177.47546\
+Pardesi: 368.32608\
+Dilated Peoples Featuring Black Thought: 236.72118\
+Tim Exile: 369.57995\
+Sir Neville Marriner: 315.27138\
+Drop Dead_ Gorgeous: 96.10404\
+Sane Band: 262.53016\
+Nichols: 214.46485\
+The Jam: 157.3873\
+Sivuca: 238.00118\
+Ultra X: 209.13587\
+Floyd Cramer: 125.85751\
+Michael English: 189.88363\
+Mart'n\'e1lia: 242.59873\
+X-Ecutioners featuring Big Pun: 65.72363\
+The Lord Henry: 240.84853\
+Daylight Torn: 225.07057\
+DJ Slugo: 287.55546\
+Felix Slatkin/Concert Arts Symphonic Band: 151.17016\
+Curt Bois: 203.02322\
+Semprini: 517.0673\
+Cowboy Mouth: 237.60934\
+Hot Boys: 227.94404\
+Cassie: 490.86649\
+M\'f6tley Cr\'fce: 260.04853\
+Jonathan Edwards / Will Ferrell: 159.58159\
+Little Willie John: 147.25179\
+Deep Blue Something: 199.3922\
+The Sterns: 162.82077\
+Kevin Max: 219.01016\
+Pedro Laza Y Sus Pelayeros: 157.93587\
+Tora Tora: 248.16281\
+Freedom: 245.49832\
+Myrick Freeze Guillory: 300.82567\
+Winston Reedy: 268.61669\
+Mouth Of The Architect: 475.21914\
+Diamanda Galas: 191.42485\
+It Dies Today: 184.24118\
+Moonspell: 386.19383\
+Justo Almario: 243.43465\
+Willie Isz: 338.72934\
+S\'e9amus Ennis: 249.73016\
+Hassan Annouri: 259.26485\
+PMD: 214.02077\
+Sonny Terry / Brownie McGhee: 383.16363\
+Jeremy Spencer: 289.77587\
+Dungeon Family: 264.6722\
+Bob Crosby: 173.73995\
+Strata: 409.83465\
+Tech N9ne: 354.7424\
+Toni Braxton Featuring Babyface: 240.61342\
+themselves: 274.1024\
+Dinosaur Jr.: 271.12444\
+Sin Plomo: 496.63955\
+Cal Tjader: 200.12363\
+The Sex Pistols: 176.5873\
+Lloyd Spiegel: 188.70812\
+Winterlight: 328.6722\
+Ivan Parker: 207.90812\
+Mindy McCready: 240.69179\
+New Found Glory: 208.27383\
+Daara J: 261.61587\
+Chantal Chamandy: 256.15628\
+Kaskaad: 414.9024\
+Joy Division: 245.34159\
+Big Joe Turner: 159.16363\
+Leana: 425.92608\
+Konstantinos Galanos: 293.8771\
+Public Image Ltd: 492.30322\
+Gloria: 219.24526\
+Roger McGuinn: 264.69832\
+Rocky Hill: 339.51302\
+Roy Roberts: 189.93587\
+ZTrip: 302.602\
+Fernando Ortega: 131.10812\
+Murphy Lee / Zee: 268.90404\
+Leaders Of The New School: 263.88853\
+Marshall Crenshaw: 244.76689\
+Pyranja: 317.09995\
+Mons Leidvin Takle: 287.26812\
+2-Gether feat. Sarinah: 294.00771\
+Corona: 343.40526\
+Ec8or: 217.23383\
+The Radio Department: 248.24118\
+Go Fish: 344.92036\
+Renee Rosnes: 396.32934\
+Matt Redman: 336.92689\
+Paul Brown: 243.90485\
+YGGDRASIL: 328.69832\
+Jody Bernal: 192.28689\
+G\'f6sta Ekman / Tage Danielsson: 220.78649\
+The Avengers: 122.72281\
+Ann Hampton Callaway: 347.79383\
+Mariachi Silvestre Vargas: 186.09587\
+Spunk: 139.2322\
+John Ottman: 205.92281\
+Los Cumbieros Del Sur: 186.85342\
+Bimbo Band: 85.08036\
+The Even Dozen Jug Band: 175.96036\
+Irtio: 333.73995\
+Groupa: 229.56363\
+Kane: 422.73914\
+Nickelback: 260.33587\
+Britney Spears: 530.12853\
+Serge Desaunay: 127.76444\
+Claire Elzi\'e8re: 235.54567\
+SANSHIRO: 272.95302\
+Lennie Tristano: 557.68771\
+We Five: 259.63057\
+Erin O'Donnell: 247.69261\
+Fast Eddie: 278.54322\
+Tin Hat Trio: 407.06567\
+Cornel Campbell: 178.59873\
+Brooke White: 233.79546\
+Tina Ann: 395.62404\
+The Jeff Healey Band: 313.7824\
+The Ocean: 285.90975\
+Bravehearts featuring Nas and Jully Black: 221.04771\
+Miguel Migs: 342.59546\
+Youves: 235.20608\
+Les Ogres De Barback: 404.45342\
+AFI: 328.72444\
+Belphegor: 308.76689\
+Oak Ridge Boys: 192.05179\
+Dionne Warwick: 243.85261\
+Wanda De Sah: 133.45914\
+Gloria Lasso: 200.64608\
+David Summers: 321.33179\
+Tanya Chua: 254.24934\
+The Steeles: 261.04118\
+Starski and Clutch: 290.95138\
+M.A. Numminen: 168.51546\
+Shunza: 315.61098\
+Bow Wow Wow: 182.9873\
+Mil featuring Petey Pablo: 227.49995\
+John Frizzell: 133.19791\
+Emit: 197.56363\
+Lil' Band O' Gold: 312.842\
+Tree: 172.90404\
+Leo Dan: 148.53179\
+Remmy Ongala: 489.482\
+Annie Lennox: 385.01832\
+Peggy Zina: 217.33832\
+Ned Nash Orchestra: 174.78485\
+Winifred Phillips: 141.19138\
+Alceu Valen\'e7a: 205.87057\
+Roj: 65.95873\
+Dabbler: 314.61832\
+Jean Ferret: 172.61669\
+Mae West: 174.49751\
+Frederik: 179.87873\
+The Summer Obsession: 282.04363\
+Barry Goldberg: 265.61261\
+Beth Nielsen Chapman: 220.05506\
+Willie Clancy: 221.72689\
+Dons: 240.22159\
+LORE: 423.07873\
+La Portuaria: 291.13424\
+Joy Enriquez: 260.96281\
+Big One: 499.69587\
+The Stems: 200.51546\
+Julio Iglesias Jr: 252.13342\
+Terry Riley: 349.20444\
+Nicole Mullen: 194.95138\
+J. Karjalainen & Mustat Lasit: 223.11138\
+James Newton Howard: 110.52363\
+Gus Viseur: 193.38404\
+Malefaction: 139.17995\
+Stone Temple Pilots: 228.96281\
+Sukhwinder Singh;Jaspinder Narula: 352.62649\
+BoDeans: 284.76036\
+Dark Distant Spaces: 274.02404\
+Damita: 249.80853\
+Mint Condition: 293.66812\
+Shay Torrent: 114.65098\
+Neeme Jarvi: 194.48118\
+Crazy Horse: 732.39465\
+Annie Philippe: 167.73179\
+Fat Joe: 277.002\
+Negura Bunget: 620.19873\
+Finntroll: 278.93506\
+Busta Rhymes feat. Linkin Park: 238.21016\
+Showbread: 264.01914\
+Cedric Gervais feat. Second Sun: 392.9073\
+Telecast: 224.96608\
+Screaming Lord Sutch: 231.44444\
+Keb' Mo': 297.66485\
+Owl City: 301.16526\
+The Antlers: 277.99465\
+Banda La Bocana: 207.04608\
+Justin Timberlake: 261.27628\
+George Hamilton IV: 323.16036\
+Eddie Boyd: 291.76118\
+Cassidy featuring Swizz Beatz: 280.71138\
+Tony Matterhorn: 207.01995\
+Kix: 366.57587\
+All Leather: 249.5473\
+Javier Navarrete: 128.83546\
+Double Image: 348.42077\
+Premiums: 173.58322\
+Mighty Mighty Bosstones: 211.33016\
+Julio Iglesias Jr.: 244.50567\
+Orquesta Aragon: 308.76689\
+Dallas Holm: 273.00526\
+Russ Taff: 343.37914\
+My Chemical Romance: 184.00608\
+Bukka White: 880.92689\
+The Rambos: 226.2722\
+Emile Vacher: 173.21751\
+Mance Lipscomb: 187.53261\
+Hem: 252.86485\
+White Willow: 659.46077\
+Beatnuts with Lil' Donny: 78.65424\
+The Misfits: 181.21098\
+Swallow The Sun: 509.49179\
+Tiny Tim: 236.77342\
+Grey Area: 189.33506\
+Mychael Danna & Jeff Danna: 244.55791\
+Dan Cummins: 169.09016\
+Marc Perrone: 202.23955\
+Big Star: 241.60608\
+Beherit: 625.57995\
+Khold: 207.93424\
+Lot Lorien: 368.16934\
+Paul Carrack: 374.96118\
+Bad Brains: 170.44853\
+Fountains Of Wayne: 165.61587\
+The Funeral Pyre: 271.22893\
+Colin James: 280.11057\
+Motograter: 226.92526\
+Elva Hsiao: 287.92118\
+Shadows Fall: 325.17179\
+Maria Forde: 325.79873\
+John Davis: 199.31383\
+Melvins: 217.80853\
+The Golden Age Orchestra_ Paul Summer\'a0: 168.75057\
+Orquesta America: 353.69751\
+Harry Connick_ Jr.: 364.64281\
+U.K. Subs: 241.99791\
+Kyle Eastwood: 441.7824\
+Chet Atkins: 319.4771\
+JK: 361.16853\
+Urge Overkill: 243.17342\
+Gloriana: 196.30975\
+Jinx: 407.37914\
+Los Manolos: 218.38322\
+Tom Petty: 236.17261\
+Pucho & His Latin Soul Brothers: 338.23302\
+Mitch Ryder: 207.43791\
+Montserrat Caball\'e9;Placido Domingo;Vicente Sardinero;Judith Blegen;Sherrill Milnes;Georg Solti: 511.16363\
+Bombay Rockers: 230.71302\
+Andy Russell: 188.682\
+John Brown: 221.43955\
+Vickie Winans: 358.71302\
+Little Freddie King: 443.55873\
+Ms. Dynamite: 286.32771\
+Blink-182: 280.00608\
+Circular: 429.29587\
+Tha Chamba: 281.75628\
+Jack Orsen & Taktlo$$: 200.51546\
+Olov Johansson_ Catriona Mckay: 469.68118\
+Shriekback: 297.92608\
+The Bucketheads: 383.16363\
+Jude Taylor & His Burning Flames: 260.46649\
+The Radio Dept.: 256.02567\
+DJ Spinn featuring Traxman: 195.49995\
+T-Bone: 248.45016\
+Metallica: 472.45016\
+Willie Rosario: 281.41669\
+Sui Generis: 335.33342\
+M.I.K.E.: 514.7424\
+The Red Telephone: 273.55383\
+John Wesley_ John Wesley: 351.08526\
+Coph Nia: 658.02404\
+John Davis & Emma Doyle: 184.86812\
+Jauida: 269.76608\
+A Static Lullaby: 241.10975\
+Tabu feat. Mitzib: 474.61832\
+Oasis: 376.99873\
+Nights Like These: 305.89342\
+Ini Kamoze: 248.92036\
+9th Wonder featuring Defcon_ Phonte: 289.54077\
+Ill Nino: 219.81995\
+Donny Hathaway: 322.87302\
+Green Day: 340.79302\
+Two Man Advantage: 50.83383\
+Wailing Souls: 255.4771\
+DMX / Eve / Jadakiss: 265.22077\
+Chico: 332.01587\
+De La Ghetto: 280.45016\
+SKOLD vs. KMFDM: 327.88853\
+Leon Russell & New Grass Revival: 221.30893\
+Ethel Merman: 135.31383\
+Story Of The Year: 224.41751\
+Neil Sedaka: 256.9922\
+Natural Elements: 338.1024\
+Lisa Lynne: 316.49914\
+Franz Ferdinand: 428.45995\
+Jeff Beck: 341.34159\
+Shelby Lynne: 290.97751\
+Hot Chip: 381.17832\
+James Taylor: 324.85832\
+Der Moderne Man: 238.8371\
+Beenie Man Featuring Wyclef And Redman: 228.04853\
+S. Solis y Orquesta: 182.20363\
+Cauterize: 240.43057\
+Joi: 425.16853\
+THE CHIFFONS: 166.922\
+Simon & Garfunkel: 194.35057\
+Commissioned: 342.83057\
+Boots Randolph: 150.20363\
+Jackson United: 204.93016\
+The Cosmosamatics: 515.97016\
+Bobbie Gentry: 261.09342\
+B.A.D.: 241.81506\
+Baby Huey & The Baby Sitters: 288.36526\
+Elmore James: 191.13751\
+Rodney O & Joe Cooley: 346.22649\
+Luar Na Lubre: 251.81995\
+The Johnny Otis Orchestra: 182.15138\
+The Stolen Minks: 233.45587\
+Jay Tee & Baby Bash: 203.67628\
+All Time Low: 227.70893\
+Debbie Davies: 283.79383\
+Pat Travers: 239.0722\
+Nelson Ned: 241.57995\
+State of Chaos: 176.90077\
+Orquesta Arag\'f3n: 182.85669\
+Avril - Remix By Ana Rago: 188.39465\
+Jeanie Lambe & The Danny Moss Quartet: 204.61669\
+Dropkick Murphys: 292.25751\
+Extasick: 134.03383\
+SNOWPATROL: 233.03791\
+Yung Joc: 193.64526\
+Amy Winehouse: 274.99057\
+George Lopez: 345.23383\
+Michael Card: 234.78812\
+Ensiferum: 352.49587\
+Azis: 281.88689\
+Gregory Isaacs: 232.59383\
+The Pharcyde / Big Boy / Schmooche Cat / Randy Mack: 334.78485\
+Dusminguet: 199.13098\
+Rudolph Valentino: 184.73751\
+Sylvia Patricia: 259.34322\
+Byther Smith: 418.87302\
+Bitter End: 282.43546\
+40 Grit: 250.67057\
+Luna Orbit Project: 335.51628\
+Danilo Perez: 197.19791\
+J.J. Cale: 263.94077\
+Kings Of Leon: 466.65098\
+Becky Baeling: 247.66649\
+Shy FX & T Power: 380.44689\
+Turisas: 146.59873\
+C\'f3mplices: 307.56526\
+Kasia Stankiewicz: 304.06485\
+Ch\'e9co Feliciano And Joe King: 273.65832\
+Bobby Bland: 181.49832\
+Emilia: 174.81098\
+Siouxsie: 234.55302\
+Lara & The Gumbo Lickers: 232.85506\
+Marcus Miller: 409.05098\
+Neil Innes: 222.87628\
+Chaotica: 243.25179\
+Gordon Jenkins: 190.48444\
+Rickie Lee Jones: 331.36281\
+Bobby Vee: 258.61179\
+Greater Vision: 252.682\
+Scar Symmetry: 326.60853\
+Oztara: 401.97179\
+Erkki Junkkarinen: 218.93179\
+Sonia Dersion: 269.87057\
+Headhunter: 312.76363\
+Zuzu Bollin: 175.90812\
+Charanga Forever: 367.43791\
+Taint: 281.46893\
+The Hit Factory: 234.70975\
+Les Hurlements D'leo: 334.13179\
+Leonard Kwan: 202.91873\
+Satan's Host: 412.1073\
+Rise Against: 260.8322\
+Terry Snyder: 340.11383\
+Sizzla: 274.15465\
+Kid Sister: 277.2371\
+David Mingyue Liang: 757.99465\
+Helen Love: 216.76363\
+Beatnuts: 257.54077\
+Pursuit Of Happiness: 245.10649\
+Canis Dirus: 722.20689\
+Gaetano Donizetti: 206.68036\
+Percy Faith And His Orchestra: 220.15955\
+Cache Cache: 245.49832\
+Stars Like Fleas: 264.51546\
+Adr Lavey: 194.45506\
+Bill Boyd's Cowboy Ramblers: 203.75465\
+Rummage: 178.12853\
+Maysa: 313.93914\
+Backstreet Boys: 236.2771\
+Eddie Calvert: 171.65016\
+Kenny G featuring Daryl Hall: 236.93016\
+Trafik: 505.67791\
+Glad: 270.602\
+David Martin: 286.4322\
+Lesley Gore: 140.2771\
+The Wreckers: 211.59138\
+Enuff Z Nuff: 182.15138\
+Inspiral Carpets: 283.76771\
+Koffi Olomide: 293.27628\
+Stephen Warbeck: 123.68934\
+Johnny Daye: 176.90077\
+Charlie McCoy: 282.53995\
+Mistress: 580.70159\
+Julie Zenatti: 287.92118\
+Orlando Pops Orchestra: 265.82159\
+Brand X: 292.5971\
+Brigada Victor Jara: 312.99873\
+Dead Kennedys: 216.842\
+Rapha\'ebl: 255.65995\
+Inoki: 259.3171\
+I Hate Sally: 163.63057\
+CoCo Lee: 860.39465\
+Ann Lee: 380.08118\
+Burt Bacharach: 175.882\
+Life Long Tragedy: 204.9824\
+Doniki: 256.20853\
+Leon Russell: 226.21995\
+Daniela Dess\'ec: 330.65751\
+Fast Eddie featuring Kool Rock: 271.3073\
+William Goldstein: 276.50567\
+Flora Purim: 246.67383\
+Los Solitarios: 179.56526\
+The Dils: 141.84444\
+Harry Lauder: 224.62649\
+Kenny Neal: 295.1571\
+Aceyalone: 170.1873\
+Herbert von Karajan and Turin RAI Symphony Orchestra: 770.35057\
+Alvin Youngblood Hart: 231.10485\
+Plies: 233.42975\
+React: 158.27546\
+G\'fcnter Noris: 180.92363\
+Out Of The Grey: 252.62975\
+Milieu: 371.87873\
+Pelle Carlberg: 247.24853\
+Dart: 340.53179\
+Spoonie Gee: 393.63873\
+Linkin Park: 208.95302\
+Dave Brockie Experience: 135.8624\
+Koffi Olomid\'e9: 625.78893\
+Aimable: 180.45342\
+Cannon's Jug Stompers: 186.64444\
+K.I.Z.: 331.31057\
+Shelby Flint: 121.25995\
+Tyrone Davis: 277.41995\
+Who Made Who: 480.96608\
+Zumpano: 228.46649\
+Energy: 310.9873\
+Jongo Trio: 163.36934\
+Chris Brown: 389.25016\
+HA-ASH: 253.90975\
+Edouard Duleu: 130.06322\
+Tom Cochrane: 320.44363\
+In Extremo: 297.45587\
+Mat Maneri: 192.15628\
+Panic At The Disco: 253.23057\
+Janina: 189.70077\
+ZENFU: 226.82077\
+Flink: 273.10975\
+Korpiklaani: 250.8273\
+Albert Collins: 356.25751\
+Daniel Paul: 323.60444\
+Los Amigos Invisibles: 420.62322\
+Johnny Cash: 216.81587\
+Daddy Yankee: 239.882\
+Masta Ace Incorporated: 295.1571\
+The Cortinas: 219.01016\
+Jeff Massanari Trio: 253.85751\
+David Johansen: 247.97995\
+Fran\'e7oise Hardy - Maurane: 194.24608\
+The Almost: 240.79628\
+John Tchicai: 250.72281\
+Kashief Lindo: 238.15791\
+Danny Wilson: 167.20934\
+The Chap: 216.2673\
+Kisha: 225.38404\
+Al Dexter: 150.9873\
+DJ Vix: 98.76853\
+Gershon Kingsley: 180.08771\
+Willie Clayton: 287.08526\
+Dave Hollister: 363.38893\
+Casa Bulga: 401.24036\
+Tanto Metro & Devonte: 221.23057\
+Java: 361.1424\
+Mustafa Sandal / G\'fclcan: 239.12444\
+Cracker: 380.86485\
+Juelz Santana / Freekey Zeekey / Monique Garnett: 79.64689\
+The Elders: 294.86975\
+Le\'f3n Gieco: 302.2624\
+Chris Clark: 226.11546\
+The Rodeo: 176.97914\
+Harald Kloser / Thomas Wander / Thomas Schobel: 163.21261\
+Julie Roberts: 287.50322\
+Nirvana: 1061.79873\
+UK Subs: 140.30322\
+Grizzly Bear: 384.67873\
+Natalie Cole: 236.19873\
+Seatrain: 294.47791\
+Joselito: 198.76526\
+SOJA: 295.49669\
+Imiskoubria: 246.54322\
+This Moment In Black History: 145.8673\
+Danny Elfman: 269.7922\
+Ernest Ranglin / Floyd Lloyd: 271.77751\
+Franco: 251.61098\
+Liquid Gang: 226.0371\
+Virgil Moorefield: 236.2771\
+Orquestra: 87.58812\
+Hatiras: 298.1873\
+Nicole C. Mullen: 268.43383\
+The Moody Blues: 291.29098\
+Fiona: 297.42975\
+Chucho Vald\'e9s: 375.03955\
+Redman: 209.84118\
+The Sensational Alex Harvey Band: 536.0322\
+Tshala Muana: 390.63465\
+Belami: 237.19138\
+New Order: 421.95546\
+Kari Tapio: 224.7571\
+Extreme: 364.38159\
+Pee Wee Crayton: 168.25424\
+Abijah: 283.68934\
+David & Steve Gordon: 610.95138\
+Tito Allen: 322.21995\
+Domna Kountouri: 209.94567\
+The Starting Line: 264.41098\
+L.A.V.I: 565.96853\
+Roger Williams: 201.74322\
+David Taylor: 600.11057\
+Anne Dudley: 280.86812\
+Dezz White: 44.93016\
+Carl Belew: 140.38159\
+TEN MADISON: 405.41995\
+Billy May & His Orchestra: 312.92036\
+Alain-Fran\'e7ois: 294.42567\
+Cool cavemen: 261.8771\
+Sister Rosetta Tharpe & Marie: 146.80771\
+Little Feat: 330.73587\
+Chaka Demus & Pliers: 251.97669\
+Pearl Jam: 428.56444\
+Christian Quast: 498.83383\
+Teena Marie: 345.67791\
+Frank Chacksfield & His Orchestra: 155.37587\
+Theodor Zox: 381.23057\
+Ramy Ayach: 239.80363\
+Everly Brothers: 125.02159\
+Refractory: 358.89587\
+Bob Dylan: 320.70485\
+Flowin Immo et Les Freaqz: 225.59302\
+Philip Glass: 289.4624\
+MIMS: 258.92526\
+Tony Ashton & Friends: 278.25587\
+The Clancy Brothers;Tommy Makem: 186.53995\
+Vox Dei: 456.69832\
+Richard Walters: 193.93261\
+Arturo Sandoval: 315.48036\
+Barbara Jones: 242.20689\
+Ram\'f3n Vargas: 642.92526\
+Mando Diao: 306.18077\
+Sirka Ragnar: 177.94567\
+Smidi Beats: 199.18322\
+Dan Shen_ Gruppo Vocale Cantemus_ Ensemble Airone_ Luigi Marzola: 84.1922\
+Faithless: 275.12118\
+Smiley: 186.06975\
+Demonbreed: 337.24036\
+Danny Diablo feat. Puerto Rican Myke: 281.49506\
+Dean Martin: 165.66812\
+Doug Sahm: 159.42485\
+Max Stalling: 167.65342\
+Sugar Minott: 290.35057\
+Mink DeVille: 173.92281\
+Babbie Mason: 240.84853\
+Assassin: 230.47791\
+99 Posse: 369.26649\
+Ms. Dynamite / Bounty Killer: 241.37098\
+Britt Nicole: 245.81179\
+Southside Johnny Lyon: 160.93995\
+The Cutting Edge: 481.07057\
+Jaime Urrutia: 278.96118\
+Natalie MacMaster: 175.49016\
+Patti Smith: 293.53751\
+GG Allin: 198.84363\
+Richie McDonald: 290.69016\
+The Gufs: 232.98567\
+Nicola Fasano: 215.77098\
+Barenaked Ladies: 173.19138\
+Sierra Maestra: 318.56281\
+Jennifer Clarke: 213.21098\
+Der Plan: 218.67057\
+Debra Laws: 257.48853\
+Chapta_ Stage McCloud_ SupaStarr & Tony Manshino: 274.38975\
+Red Stick Ramblers: 194.0371\
+Tanika Turner: 232.72444\
+Yvette: 405.002\
+Plasmatics: 344.24118\
+Mark Wills: 210.33751\
+Computer Paul: 577.48853\
+Maria Callas/Giuseppe di Stefano/Orchestra del Teatro alla Scala_ Milano/Gianandrea Gavazzeni: 233.40363\
+Amilcar: 277.7073\
+Marc Lavoine: 224.39138\
+Katie Armiger: 288.28689\
+Noisettes: 218.46159\
+Andrew W.K.: 240.40444\
+Eduardo Fernandez / Norbert Blume / English Chamber Orchestra / George Malcolm: 341.05424\
+Grup Knar: 381.70077\
+Jim Kweskin: 235.31057\
+Stephy Tang: 214.12526\
+Deepest Blue: 514.45506\
+Dolly Parton: 294.24281\
+Bob Cheevers: 240.22159\
+Jan Wayne: 495.38567\
+Goatwhore: 225.64526\
+Brice Kapel: 297.09016\
+DJ Deeon: 260.30975\
+Wesley Tuttle: 175.22893\
+Smash Palace: 276.81914\
+Lionel Richie: 307.3824\
+MICHAEL WHITE: 239.64689\
+Sophie Tucker: 180.6624\
+Arctic Monkeys: 193.43628\
+Leonardo Favio: 229.25016\
+J.J. Cale & Eric Clapton: 211.17342\
+Yiannis Tassios: 208.1171\
+Fehlfarben: 330.65751\
+Junior Parker: 202.55302\
+Cheri Keaggy: 262.24281\
+Cassidy: 180.11383\
+Gene Chandler: 163.29098\
+Black Messiah: 488.41098\
+Isabel Pantoja: 329.32526\
+Kitty Wells: 172.48608\
+Gorki: 209.31873\
+Karlheinz Stockhausen: 277.18485\
+Lynn August: 262.5824\
+Indica: 461.11302\
+The Robert Cray Band: 384.522\
+Eduardo Dusek: 160.7571\
+Jacques Higelin: 253.09995\
+Little Eva: 171.78077\
+Darcelys: 152.842\
+Stephen Marley / Damian Marley: 273.89342\
+Uriah Heep: 252.9171\
+Akon / Kardinal Offishall: 207.20281\
+Red Foley: 192.80934\
+George Dalaras: 164.77995\
+Emperor: 508.96934\
+Manolis Famellos & I Podilates: 162.58567\
+Blondie: 431.75138\
+Facto Delafe y las flores azules: 158.45832\
+Annie Blanchard: 260.80608\
+GARFIELD: 53.86404\
+Kommunity FK: 213.75955\
+Big Mountain: 216.05832\
+Slim Whitman: 195.91791\
+Unearth: 222.27546\
+Tim Hughes: 268.2771\
+Brian Auger's Oblivion Express: 360.30649\
+Richi M.: 590.00118\
+Herb Alpert And The Tijuana Brass: 176.66567\
+Chango Spasiuk: 351.29424\
+Little Brother: 245.28934\
+Vaggelis Perpiniadis: 174.52363\
+Les Paul_ Mary Ford: 158.40608\
+Claw Hammer: 293.8771\
+Bizzy Bone: 238.21016\
+Yuridia: 265.92608\
+Tomash Gee: 373.75955\
+Jessica Simpson featuring Lil Bow Wow: 215.66649\
+Burning Spear: 355.18649\
+Grayson Capps: 242.18077\
+Electronic pig: 218.53995\
+Larytta: 278.12526\
+Reginaldo Bessa: 132.54485\
+Ricardo Lemvo: 292.12689\
+Kuba: 402.65098\
+Tito Puente: 356.41424\
+Hi-Tack: 345.96526\
+Alex Gopher: 684.79955\
+Dealership: 103.52281\
+Freakhouse: 204.06812\
+Frankie Howard: 198.73914\
+Amil: 269.19138\
+K\'e9k\'e9l\'e9: 309.49832\
+Why?: 190.14485\
+Bersuit Vergarabat: 307.35628\
+Stefon Harris: 538.27873\
+Asure: 215.11791\
+Charles Williams: 91.84608\
+D.A.R.: 250.122\
+Patrick St-Eloi: 310.41261\
+El Gran Silencio: 300.09424\
+DJ Icey: 356.41424\
+Babbu Maan: 227.7873\
+The All-American Rejects: 279.71873\
+Viki Mosholiou: 274.80771\
+Year Long Disaster: 228.15302\
+Helmet: 257.54077\
+Alice Stuart: 305.73669\
+Gran Coquivacoa: 286.45832\
+Mr Lab!: 285.17832\
+Charles Aznavour: 147.77424\
+John Wesley Ryles: 183.95383\
+Eno: 316.99546\
+Lifer: 286.53669\
+TRAM 11: 303.04608\
+Messy Marv & D.Z.: 273.03138\
+Future Leaders of the World: 249.67791\
+Petrol: 273.24036\
+Novika: 268.90404\
+Atman: 433.94567\
+Fever Ray: 556.06812\
+Kako: 319.26812\
+Daniel Kobialka: 703.9473\
+War Babies: 285.83138\
+Belle & Sebastian: 401.8673\
+Ray Sandoval: 415.99955\
+Fastball: 248.92036\
+Rob Mullins: 242.07628\
+Bruce Katz Band: 209.05751\
+X-Raided: 359.65342\
+Washboard Sam: 184.78975\
+Percy Mayfield: 173.50485\
+Mind Furniture: 516.362\
+Chico Hamilton: 473.49506\
+Corb Lund: 235.80689\
+Jack Sheldon: 319.39873\
+Ray Kane: 262.26893\
+The Tamperer: 333.42649\
+Mongo Santamaria Orchestra: 203.25832\
+The Paul Butterfield Blues Band: 490.84036\
+Super Cat: 229.66812\
+Larissa: 187.24526\
+Entre R\'edos: 285.04771\
+Leslie Mendelson: 206.52363\
+Creedence Clearwater Revisited: 203.7024\
+Memphis Minnie: 180.29669\
+Usher featuring Jermaine Dupri: 246.09914\
+Big Daddy Rick: 373.52444\
+Elvenking: 357.45914\
+DCX: 193.72363\
+Gail Davies: 192.96608\
+Kekele: 306.96444\
+Crazy Girl: 357.14567\
+Berlin: 255.32036\
+Jimmy Wakely: 178.1024\
+Fort Minor: 43.38893\
+Ruby Isle: 277.73342\
+Elena: 269.58322\
+Ray Conniff;Billy Butterfield: 175.15057\
+Michael Gettel: 452.25751\
+Stephen Marley: 270.05342\
+The All American Rejects: 195.18649\
+The Who: 271.69914\
+The Dells: 408.73751\
+Gian Marco: 229.32853\
+Paul Overman: 564.29669\
+Ms. Dynamite / Kymani Marley: 202.21342\
+Mr.De': 246.72608\
+Les Paul and Mary Ford: 172.59057\
+The Cure: 250.85342\
+Cliff Edwards/Disney Studio Chorus: 193.67138\
+Scott Wesley Brown: 350.11873\
+Jimmy Witherspoon: 197.51138\
+LL Cool J: 270.10567\
+Roger Reynolds: 842.10893\
+SWAMI featuring Ishmael Morabe: 275.90485\
+G\'f6teborgs Symfoniker / Neeme J\'e4rvi: 904.80281\
+Tigerstyle: 351.45098\
+Deekline & Wizard: 338.442\
+Krayzie Bone: 175.5424\
+impulsonic: 395.49342\
+Lupe Fiasco feat. GemStones and Graham Burris: 211.69587\
+Rainer Bielfeldt: 239.01995\
+Mithotyn: 391.02649\
+Corderoy: 513.43628\
+Jenney: 228.80608\
+Terje Lie: 267.38893\
+Blindman's Sun: 639.42485\
+V V Brown: 203.31057\
+Patton Oswalt: 338.05016\
+Parachute Band: 285.36118\
+Soilwork: 323.21261\
+Kruger: 407.50975\
+Wordsworth feat. Adanita Ross: 237.13914\
+J.B. Lenoir: 176.37832\
+Johnny Keating & All Stars: 177.26649\
+The Tragically Hip: 318.87628\
+Zebra: 441.52118\
+Diamond Rexx: 181.39383\
+Ray Davies: 222.79791\
+Plies featuring Tank: 218.04363\
+Terry Dexter: 281.86077\
+Delta 9: 159.76444\
+Bebo Norman: 280.39791\
+45 Grave: 163.26485\
+The Tall Grass: 273.73669\
+Kenny G: 285.98812\
+Green and Yellow: 358.79138\
+Symbiosis Orchestra: 297.35138\
+Kirk Franklin with tobyMac & Sonny (of P.O.D.): 299.85914\
+Andy Andy: 264.46322\
+M\'f3veis Coloniais de Acaju: 320.05179\
+Ramses: 214.41261\
+Billy Butler: 213.99465\
+Novembre: 313.3122\
+Perez Prado_ His Orchestra: 143.41179\
+L7: 198.76526\
+Vic Chou: 271.41179\
+Kris Kristofferson: 259.68281\
+Charlie Haden: 292.17914\
+Rachel Portman: 199.05261\
+Alexisonfire: 212.11383\
+Sonny James: 146.02404\
+Walter Wanderley Trio: 196.64934\
+Ashton Shepherd: 260.51873\
+Anthony Cruz: 324.98893\
+Cecilia Bartoli / International Chamber Soloists / Orchestra La Scintilla / Adam Fischer: 225.14893\
+B\'e9zu: 285.64853\
+Michelle Tumes: 265.29914\
+Beres Hammond Feat. Jah Youth: 247.77098\
+Benny Spellman: 171.75465\
+Anthony Watson: 346.27873\
+Marga Gomez: 313.20771\
+Noah Lewis: 169.74322\
+Apache Indian: 298.762\
+John Berry: 239.20281\
+FSTZ: 280.58077\
+Edgar Bori: 309.002\
+Marc Broussard: 222.22322\
+George Faith: 277.08036\
+Shout Out Out Out Out: 233.9522\
+Montrose: 197.51138\
+Yvette Horner: 162.19383\
+Walter Trout: 325.14567\
+Bally Sagoo: 433.42322\
+Coolio Da Unda Dogg: 240.22159\
+The Wicklows: 148.87138\
+Electrostatic: 285.88363\
+Arkona: 310.33424\
+Big Rich featuring J. Stalin_ Aristotle: 137.79546\
+Django As\'fcl: 365.73995\
+Britney Spears feat. Pharrell Williams: 225.48853\
+Mac McAnally: 183.53587\
+Del Tha Funkee Homosapien: 257.69751\
+Herbst9_ Z'ev: 501.55057\
+Bill Laswell: 381.30893\
+Leo Gandelman: 222.98077\
+Mariano Yanani: 239.22893\
+Memphis La Blusera: 338.12853\
+The Michael Stanley Band: 232.12363\
+Various Indian Tribes: 193.25342\
+Anat Ben David: 213.7073\
+One Block Radius: 236.72118\
+Beatnuts featuring dead prez and Cheryl Pepsi Riley: 318.56281\
+Sonny Terry & Brownie McGhee: 182.69995\
+Rene Touzet: 288.33914\
+Boondox: 260.10077\
+Maurane: 263.67955\
+France D'Amour: 226.06322\
+X: 233.22077\
+Sylvester Weaver: 182.77832\
+Carl Crack: 256.70485\
+Ray Charles: 170.00444\
+Blue October: 225.67138\
+Jedi Mind Tricks: 240.06485\
+Mindless Self Indulgence: 222.14485\
+Sticky Fingaz & Omar Epps: 142.86322\
+Choir & Great Symphony Orchestra of the All-Union Radio_ N. Shpiller_ S. Krassovsky_ V. Gagarina & N: 541.23057\
+Gloria De Haven: 163.42159\
+Avril: 651.59791\
+Suicide: 394.73587\
+Gus Cannon: 197.0673\
+Max Melvin: 262.79138\
+Plagia: 354.11546\
+Lee Ritenour: 444.81261\
+Point Of Grace: 294.08608\
+Hollywood Bowl Orchestra / John Mauceri: 147.64363\
+Shaman: 456.82893\
+K-OS: 304.16934\
+Dine et D\'e9on: 113.57995\
+Martin Denny: 175.75138\
+Amalia Avgoustaki: 182.17751\
+Shanadoo: 225.20118\
+Gym Class Heroes: 254.51057\
+Jape Squad: 267.33669\
+Frankee: 149.99465\
+Operator: 213.55057\
+SAF: 317.54404\
+Tommy Torres: 222.92853\
+Fun Lovin' Criminals: 235.36281\
+Shirley Caesar: 408.05832\
+Rhian Benson: 207.46404\
+Righteous Brothers: 190.14485\
+OutKast: 366.39302\
+Five Fingers of Funk: 1400.37179\
+Alfredo Kraus/Tatiana Troyanos/London Philharmonic Orchestra/Michel Plasson: 55.40526\
+Otis Taylor: 301.87057\
+C\'e9line Dion: 274.57261\
+IYOV: 257.4624\
+Laron aka Swan featuring Alexander East: 544.522\
+The Clancy Brothers: 164.07465\
+Paul Taylor / Terry Dexter: 270.21016\
+Andreas Dorau: 395.17995\
+Bukue One: 239.38567\
+Hiram Bullock: 502.69995\
+Tommy Castro: 240.27383\
+Stiff Meat: 240.29995\
+Asterisk*: 41.84771\
+Panzer AG: 305.05751\
+Silent Stream Of Godless Elegy: 50.1024\
+T-la Rock: 151.61424\
+Etienne de Cr\'e9cy\'a0: 215.84934\
+Lee Ritenour / Jeff Mironov: 307.04281\
+Sam Butera & The Witnesses: 148.06159\
+Helen O'Connell: 180.6624\
+Frankie Randall: 215.77098\
+Cerati-Melero: 262.37342\
+The Pineapple Thief: 399.82975\
+House Of Lords: 232.75057\
+The Last: 159.05914\
+Buddy Jewell: 212.89751\
+Leo Ku: 280.55465\
+Alain Morisod: 245.44608\
+Gold City: 182.25587\
+Irrevers\'edveis: 254.82404\
+Marcie Blane: 143.25506\
+Foo Fighters: 313.10322\
+The Color Red: 216.05832\
+Mandi: 200.59383\
+Loretta Lynn: 197.58975\
+Geggy Tah: 231.54893\
+Mista: 259.3171\
+Rikk Agnew: 269.40036\
+Dexys Midnight Runners: 434.88608\
+Dntel: 264.77669\
+The Stooges: 328.9073\
+Tonic: 184.68526\
+Glen Campbell And Bobbie Gentry: 183.11791\
+The Grip Weeds: 314.14812\
+GWAR: 261.79873\
+Gary Nichols: 162.19383\
+Gabinete Caligari: 304.32608\
+DCS: 305.3971\
+Sick Puppies: 212.92363\
+Wednesday 13's Frankenstein Drag Queens From Planet 13: 239.20281\
+Gaiteros de Pillopo: 251.08853\
+Andr\'e9 Minvielle: 295.96689\
+Hassan Annouri feat. Cassandra Steen: 270.73261\
+Dub Pistols feat. Lindy Layton & Rodney P: 333.21751\
+Herbert Von Karajan: 1143.03955\
+A.Z.: 203.10159\
+Bob Marley: 224.96608\
+Brian Free & Assurance: 243.80036\
+The Fray: 240.56118\
+The In Crowd / Jah Stitch: 476.9171\
+Groucho Marx: 586.70975\
+Enter the Haggis: 399.882\
+Frank Chacksfield: 151.82322\
+Joe Turner: 233.92608\
+Agnes: 371.06893\
+Buju Banton: 256.78322\
+Jean Lumi\'e8re: 183.43138\
+Patrick Eudeline: 188.21179\
+Sonny Landreth: 212.63628\
+Piero Esteriore: 246.54322\
+Pennywise: 242.33751\
+Lonestar: 263.49669\
+Paul Buckmaster: 123.76771\
+Dixie Chicks: 351.84281\
+Bomb Squad: 191.11138\
+The Prefects: 266.57914\
+Paul Avgerinos: 423.60118\
+Sandra Mihanovich: 263.18322\
+Walter Hawkins: 468.00934\
+Wamdue Project: 422.24281\
+John Travolta / Christopher Walken: 287.16363\
+Steve Green: 211.722\
+Fake Problems: 195.47383\
+Bruisers: 289.01832\
+H\'e9roes del Silencio: 249.86077\
+Eurythmics: 305.10975\
+Aphasia: 984.55465\
+Rocky Whatule: 283.74159\
+Don & Juan: 148.16608\
+Bob Hope: 147.722\
+God Lives Underwater: 215.40526\
+Mack and Jamie: 66.42893\
+Ben Sidran: 366.0273\
+Sue Foley: 224.65261\
+Mills Brothers: 79.64689\
+Jim Jones featuring Oshy: 224.31302\
+Barry Mann: 170.44853\
+Jason Michael Carroll: 229.8771\
+The Scare: 218.95791\
+The Chi-Lites: 274.83383\
+The Shangri-Las: 164.80608\
+The Katies: 216.29342\
+Mario Telles: 212.13995\
+NO-TONE ft.Inusa: 396.7473\
+Cadacross: 217.93914\
+Martin Lawrence: 202.78812\
+Chris Standring: 269.322\
+BB King: 186.40934\
+Beautiful Creatures: 263.96689\
+Bob Newhart: 326.29506\
+Eko Fresh feat. Capkekz: 236.14649\
+The Frequency: 1054.37995\
+Mohammad Nouri: 273.94567\
+Caballo Dorado: 190.22322\
+Jack Johnson and Friends / Matt Costa: 136.30649\
+Soul Asylum: 279.2224\
+Rancid: 163.29098\
+Mykill Miers: 263.3922\
+Rachael Starr: 608.23465\
+Anna Abreu: 205.45261\
+Stanley Clarke: 331.33669\
+Lonnie Brooks: 351.73832\
+The Red Jumpsuit Apparatus: 208.79628\
+Chroma Key: 160.31302\
+Bruce Springsteen: 591.62077\
+Ram\'f3n Vargas;Vesselina Kasarova;Vladimir Jurowski: 333.92281\
+Twista: 368.03873\
+Rauni Pekkala: 162.14159\
+The Chi Lites: 170.70975\
+Gathering: 242.93832\
+DJ Clue / P. Diddy: 64.70485\
+Redman / Saukrates / Icadon: 204.19873\
+Connemara Stone Company: 192.10404\
+The Chico Hamilton Quintet With Fred Katz_ Paul Horn_ John Pisano_ Carson Smith: 218.48771\
+Tracy Byrd: 227.57832\
+Dynamix: 451.02975\
+Languis: 199.00036\
+Gipsy Kings: 303.09832\
+Lidell Townsell: 201.82159\
+P.O.S: 156.83873\
+Rod Bernard: 103.44444\
+The Irish Tenors: 283.55873\
+Pep Laguarda & Tapineria: 340.53179\
+Geiom Feat. Marita: 363.38893\
+Eyes Set to Kill: 238.05342\
+Jefferson Starship: 329.50812\
+Jay-Z: 259.05587\
+Kira: 193.17506\
+Yellowcard: 208.79628\
+Fabi\'e1n: 241.68444\
+The John Buzon Trio: 140.56444\
+Tyree: 399.93424\
+The Merry Macs: 194.84689\
+Nana Mouskouri: 175.12444\
+Time Zone: 233.63873\
+KMD: 239.12444\
+The Vaughan Brothers: 262.29506\
+The Wiyos: 186.30485\
+Oh No: 110.57587\
+Eddie and the Subtitles: 143.98649\
+Dope Stars Inc.: 233.22077\
+Wet Wet Wet: 257.25342\
+Johnny Nash: 187.0624\
+Arne Weise: 198.24281\
+Timbalada: 242.1024\
+Samba Mapangala and Orchestra Virunga: 301.66159\
+Marty Robbins: 181.41995\
+Catherine King/Matthew Schwinghammer/The American Boychoir: 125.3873\
+Falling Into Place: 293.72036\
+Bimbo: 288.86159\
+Carl Davis: 167.20934\
+The In Crowd: 266.81424\
+DAVE MATTHEWS BAND: 293.66812\
+Mississippi Mass Choir: 333.5571\
+The Antripodean Collective: 720.53506\
+Eazy-E: 208.32608\
+Magic Systeme: 287.34649\
+Georges Parys: 155.58485\
+Circle Jerks: 122.64444\
+Diesel Boy: 152.65914\
+S.U.P: 384.70485\
+Deville_ Willy: 291.91791\
+The Statler Brothers: 201.27302\
+Charlie Walker: 152.73751\
+Eko Fresh feat. Ado: 215.92771\
+Evolution: 436.21832\
+Peloton: 238.05342\
+The Shamen: 280.31955\
+From Autumn To Ashes: 175.80363\
+Passion: 253.41342\
+Midwest Product: 301.73995\
+Biddu: 338.02404\
+Clifton Chenier: 281.15546\
+Connie Francis: 147.17342\
+O'2L: 290.08934\
+R. Kelly & Jay Z: 242.15465\
+Ronnie Milsap: 281.52118\
+Zen Lemonade: 493.7922\
+Larry The Cable Guy: 148.37506\
+Lionel Rogg: 499.51302\
+Borialis: 294.68689\
+X-ecutioners: 286.77179\
+Rishi Rich: 235.25832\
+Los Hispanos: 242.28526\
+Juice Leskinen: 271.77751\
+Barrabas: 241.3971\
+Malcolm McLaren: 169.50812\
+Bumblefoot: 214.64771\
+Mickey And The Students: 914.02404\
+The Brooklyn Tabernacle Choir: 324.44036\
+Republica;Jonny Male;Dave Arch: 303.85587\
+Ionics: 140.38159\
+Paulette Tajah: 201.92608\
+Top Of The Poppers: 184.29342\
+Dokken: 242.85995\
+At All Cost: 443.68934\
+Charles Williams And His Orchestra: 196.75383\
+William Coulter: 253.54404\
+Phil Spector: 130.61179\
+Soul Embraced: 248.81587\
+King Diamond: 286.56281\
+Ray Boltz & Steve Millikan: 245.62893\
+Los Gaiteros de San Jacinto: 234.52689\
+Fuzz: 238.36689\
+Lincoln Center Jazz Orchestra: 304.84853\
+Herbert  von Karajan: 201.89995\
+J. B. Lenoir: 190.64118\
+Simple Minds: 435.3824\
+Michelle & Vickie: 279.19628\
+D' Militante: 420.49261\
+Pamelo Mounk'a: 528.40444\
+Kool Savas: 79.93424\
+Rainie Yang: 220.15955\
+Damone: 217.20771\
+Los Fernandos: 187.95057\
+Hubert Kah: 249.83465\
+Sergio Mendes / Black Eyed Peas: 267.20608\
+Tabu Ley Rochereau: 456.61995\
+Dead Prez: 154.30485\
+Dino: 406.38649\
+James Scott Skinner: 184.52853\
+Pyrolator: 180.24444\
+Marilyn Horne / Wiener Opernorchester / Henry Lewis: 391.70567\
+Abraham Laboriel: 423.26159\
+Chelsea: 301.71383\
+Fl\'e1vio Jos\'e9: 252.02893\
+Skrape: 198.81751\
+NewFound Road: 176.56118\
+Ray Conniff: 210.18077\
+Vilma Palma e Vampiros: 411.97669\
+The High Strung: 187.27138\
+Lost Boyz: 269.7922\
+Madilu System: 451.44771\
+The Kitchen: 213.10649\
+Alberto Cortez: 252.78649\
+Cam'Ron / JR Writer: 208.92689\
+Tesla: 390.66077\
+Statues: 211.01669\
+Jonny Lang: 208.32608\
+Donna The Buffalo: 376.29342\
+Conjunto Mar Azul: 309.96853\
+Billy Bragg & Wilco: 207.98649\
+Die Bandbreite: 289.38404\
+Mr Dubz: 293.72036\
+G\'f6tterd\'e4mmerung: 250.14812\
+Andre Verchuren: 156.26404\
+Soda Stereo: 343.562\
+Mil: 200.56771\
+Spieluhrmelodien: 131.94404\
+Erik Hassle: 308.81914\
+Ben Watt feat. Estelle: 389.19791\
+Wyclef Jean featuring Butch Cassidy and Sharissa: 238.47138\
+Far Too Jones: 249.02485\
+Aur\'e9lien Merle: 286.85016\
+Blackalicious: 302.94159\
+Terror Fabulous: 191.73832\
+Lloyd Banks: 250.74893\
+Saarbr\'fccken Radio Symphony Orchestra: 827.66322\
+Modeselektor: 385.2273\
+Marvin Sapp: 393.09016\
+Jackie Davis: 166.39955\
+Kartik Seshadri: 1519.28118\
+Eddie Henderson: 277.57669\
+Charlie Rich: 268.7473\
+Shawn Colvin: 290.11546\
+Kzss & Atma: 335.09832\
+Coven: 244.50567\
+Tommy Overstreet: 185.73016\
+J.C. Lodge: 319.39873\
+Stelios Dionisiou: 233.92608\
+Jos\'e9 Augusto;Catia Guimma: 256.15628\
+Hatiras & Slarta John: 383.58159\
+Unison: 216.78975\
+Ice-T & Chuck D: 26.01751\
+The Kirkbys: 154.3571\
+Les Bantous De La Capitale: 431.93424\
+Paula Santoro: 192.41751\
+Janice Vidal: 246.59546\
+Bob Margolin: 227.00363\
+Blind Boy Fuller: 167.99302\
+Louis Prima And Keely Smith: 171.4673\
+Mal De Ojo: 238.10567\
+Elliot Goldenthal: 617.82159\
+Eyehategod: 247.01342\
+Death From Above 1979: 344.842\
+Alain Souchon: 231.31383\
+FIR: 206.57587\
+Nic Endo: 388.0224\
+Kim Wilson: 555.54567\
+Mobb Deep: 298.00444\
+Cool For August: 214.7522\
+Pedro Aznar: 368.3522\
+Gang Starr Featuring Jeru The Damaja And Lil Dap: 244.32281\
+Lenn Hammond: 216.47628\
+Colombiafrica - The Mystic Orchestra: 318.79791\
+Bebe Winans: 278.22975\
+Zeltinger Band: 222.24934\
+Eric Champion: 327.49669\
+Lily Holbrook: 242.83383\
+Conjunto Clasico: 245.99465\
+Mat Kearney: 215.74485\
+G-Unit: 274.78159\
+Cancer Bats: 180.71465\
+Pinchers & Ganglords: 235.17995\
+Emeneya: 552.35873\
+Dropline: 239.20281\
+Carlos Ponce: 269.97506\
+RUN-DMC vs. Jason Nevins: 250.06975\
+Alfredo Kraus - Orquesta de Conciertos de Madrid - Pablo Soroz\'e1bal: 243.48689\
+James Darren: 172.25098\
+Nouvelle: 229.51138\
+MIMS Featuring J. Holiday: 225.51465\
+Jimmie Davis: 183.87546\
+Vonray: 230.08608\
+Jah Wobble & Bill Laswell: 463.35955\
+Blind Willie McTell: 191.73832\
+Ray Barretto: 538.06975\
+Jeff Wahl: 124.682\
+Dale Hawkins: 168.59383\
+Gabriel Yared: 229.98159\
+5th Ward Boyz: 261.11955\
+Johnny Winter: 315.92444\
+Rui Da Silva: 635.92444\
+Emotion Code: 594.99057\
+Sivuca & Camerata Bras\'edlica: 220.39465\
+Nando Lauria: 350.56281\
+Jere McAllister: 460.43383\
+Hunters: 342.38649\
+Faith Hill & Tim McGraw: 252.89098\
+Glen Campbell: 202.70975\
+Gene Simmons: 162.01098\
+Gerald Clayton: 393.63873\
+Mich\'e8le Arnaud: 176.27383\
+L.A. Guns: 398.44526\
+Akissa: 253.70077\
+Isabelle Adjani: 179.77424\
+DJ X-Change: 244.08771\
+Aswad: 280.94649\
+Humanzi: 274.99057\
+Patrick Saint-Eloi: 319.97342\
+Prozak: 207.85587\
+Shaggy: 232.30649\
+Johann K\'f6hnich: 376.05832\
+Blackbyrds: 325.92934\
+Joell Ortiz: 167.88853\
+Stern: 283.27138\
+Vicious Mary: 229.22404\
+Estrellas Cubanas: 329.97832\
+Nik & Jay: 207.67302\
+Inspector 9: 267.91138\
+deadboy & the Elephantmen: 275.46077\
+Aurlus Mab\'e9l\'e9: 356.88444\
+Ebba Forsberg: 367.80363\
+Del The Funky Homosapien: 316.60363\
+Dilated Peoples Featuring Devin The Dude: 221.28281\
+6CycleMind: 278.38649\
+Hanoi Rocks: 304.22159\
+DJ Phiene: 240.92689\
+Johnny Copeland: 305.6322\
+Guitar Slim: 183.06567\
+Stellar Kart: 171.25832\
+Gabriela Anders: 228.07465\
+Pretty Boy Floyd: 236.042\
+Albert Pr\'e9jean: 190.17098\
+Orlando Pops Orchestra and Andrew Lane: 430.94159\
+Georgia Satellites: 190.40608\
+Izzy: 277.10649\
+Generation X: 299.80689\
+David Robertson: 285.04771\
+Laurindo Almeida / Charlie Byrd: 232.6722\
+Birds of Prey: 162.48118\
+Bob McKenzie / Doug McKenzie: 224.46975\
+KRS-One: 256.57424\
+Lorna: 329.53424\
+Nerf Herder: 200.04526\
+Lady GaGa: 243.33016\
+Bullethole: 226.66404\
+The Dee Jays: 195.10812\
+Solitaire: 492.45995\
+Vrse Murphy: 240.5873\
+Army of the Pharoahs: 242.25914\
+Billy Higgins: 314.40934\
+Dan Moretti: 341.49832\
+Little Jr. Parker: 154.8273\
+THE AD LIBS: 163.99628\
+PRE: 92.70812\
+Korn: 288.49587\
+Jill Paquette: 199.70567\
+Sofia Karlsson: 340.21832\
+Valient Thorr: 200.64608\
+Patience Dabany: 369.162\
+Northern State: 208.09098\
+Flexy: 241.97179\
+Marcio Faraco: 293.43302\
+Magnatune Compilation: 184.76363\
+Russell Malone: 286.6673\
+Jessica Myrberg: 172.7473\
+Diego Vasallo: 225.4624\
+Tha Alkaholiks: 217.36444\
+Capital Tax: 262.79138\
+N.W.A.: 183.14404\
+Tarheel Slim: 153.62567\
+Willy DeVille: 439.30077\
+Del Horno: 521.89995\
+The Business: 144.77016\
+Angela Stewart: 211.33016\
+Since The Flood: 194.92526\
+Harald Kloser: 178.1024\
+Dells: 159.05914\
+Shangri Las: 134.68689\
+Junior M. A. F. I. A.: 258.37669\
+50 Cent / Mobb Deep: 247.77098\
+Smokin' Joe Kubek & Bnois King: 221.3873\
+Pegy Zina: 196.362\
+A Different Breed of Killer: 187.24526\
+Rance Allen Group: 252.36853\
+Nancy Walker: 215.95383\
+Los Ninos De Sara: 226.58567\
+D'Molls: 259.16036\
+Montserrat Caball\'e9;Eugenio  Marco: 254.1971\
+Michael Convertino: 159.16363\
+S\'e9bastien Roch: 184.08444\
+Dead To Me: 145.55383\
+Babylon Disco: 208.90077\
+Messy Marv featuring Clover Geez: 285.85751\
+Curtis: 456.51546\
+Marilyn Scott: 245.62893\
+Grant And Wilson: 177.99791\
+Pacha Massive: 300.93016\
+Inhume: 185.20771\
+Thirst: 290.69016\
+Checkers: 171.31057\
+Tiny Tim/Cast/Ghost Of Christmas Present/Scrooge: 240.22159\
+Bambino_ Ivan Tirado: 374.30812\
+Mayday: 307.33016\
+Gerald Veasley: 371.25179\
+Al Rapone: 185.93914\
+Sonny Terry: 149.41995\
+N.E.R.D.: 222.6673\
+The Refreshments: 239.41179\
+Kelly Sweet: 504.92036\
+Ram Squad: 249.36444\
+Caspian: 125.07383\
+Faces: 279.84934\
+Kanye West / Consequence / Cam'Ron: 333.34812\
+Dwight Twilley: 224.54812\
+Asha Puthli: 351.65995\
+Kati: 260.91057\
+Monty Are I: 279.24853\
+Wendo Kolosoy: 397.76608\
+David Lynch: 618.23955\
+Derek Bell: 268.32934\
+Henry Lee Summer: 266.4224\
+Igor Stravinsky;Columbia Symphony Orchestra: 181.26322\
+Janie Fricke: 194.5073\
+Nacho Chapado feat. Stephen Massa: 371.1473\
+Kary Ng: 209.55383\
+Wayne Kramer: 248.52853\
+Jordan & Baker: 424.9073\
+Eko Fresh feat. Summer Cem & DJ Ses: 244.63628\
+Freddie McGregor: 249.18159\
+The Irish Rovers: 240.32608\
+The Sugarhill Gang: 451.02975\
+DJ X-Change featuring Joey A: 231.78404\
+Bonita & Jerry Cormier: 208.79628\
+Dub Wiser: 468.06159\
+Dominic: 230.71302\
+Zachary Richard: 193.82812\
+Jaguares: 308.4273\
+Nicho Hinojosa: 188.36853\
+Kuldeep Paras: 301.84444\
+Jets: 260.38812\
+Festival: 281.57342\
+Keira Green: 181.26322\
+Ma Rainey & Her Tub Jug Washboard Band: 181.86404\
+Amanaj\'e9: 283.6371\
+Sukhwinder Singh: 342.43873\
+Alacranes Musical: 284.1073\
+Brownie McGhee: 176.37832\
+Susana Seivane: 350.71955\
+Cama: 221.17832\
+Al De Lory: 175.49016\
+Greis: 275.30404\
+Cardenales del Exito: 237.87057\
+Juelz Santana: 233.92608\
+Bowen_ Robin Huw: 244.29669\
+Wolfmother: 316.21179\
+Legion Of Green Men: 396.77342\
+M\'e1rcio Faraco: 236.35546\
+Syl Johnson: 238.86322\
+Ambient Music Therapy: 167.3922\
+Paul Rogers: 265.01179\
+Rockin' Dopsie_ Jr._ The Zydeco Twisters: 259.39546\
+B.B.King: 167.49669\
+Toots & The Maytals: 169.53424\
+Stockhausen Waterman: 183.87546\
+Rhinoceros: 280.24118\
+Jim Smoak & The Louisiana Honeydrippers: 140.64281\
+Channel Live: 238.81098\
+L.a. Dream Team: 314.90567\
+Steve Porter: 509.33506\
+Igor Stravinsky: 247.7971\
+Modern Day Escape: 187.0624\
+Stanley Clarke;Herbie Hancock: 307.59138\
+When Dinosaurs Ruled The Earth: 37.82485\
+Raphael: 212.61016\
+Barry K\'fcnzel: 251.37587\
+Devanic: 336.06485\
+Corderoy & U4IC DJ'S: 517.642\
+Jimmy Burns: 264.51546\
+The Berzerker: 165.61587\
+The Villas: 179.48689\
+5 Blind Boys Of Alabama: 173.71383\
+Montserrat Caball\'e9/Royal Philharmonic Orchestra/Lamberto Gardelli: 498.80771\
+Pepe Kalle: 369.52771\
+Jah Debda: 277.10649\
+Carpenters: 134.60853\
+Jimmy Page / Robert Plant: 348.08118\
+Dave Graney & Clare Moore: 248.11057\
+Roy Carrier: 220.1073\
+The Raconteurs: 230.5824\
+La Charanga Rubalcaba: 217.99138\
+Tullycraft: 206.13179\
+Vulgar Pigeons: 125.98812\
+JennyAnyKind: 326.79138\
+Hank Penny & Sue Thompson: 119.58812\
+Al Duvall: 167.28771\
+Johnny Osbourne: 271.5424\
+Ed Ames: 154.30485\
+Usher: 309.83791\
+Grant Geissman: 349.23057\
+Dave Weckl: 311.01342\
+Uphill Battle: 323.36934\
+Pinch: 337.91955\
+3 Way Funk: 210.25914\
+Kelly Clarkson: 368.92689\
+Noel Harrison: 166.73914\
+Freddie Roulette: 232.85506\
+Daler Mehndi: 245.49832\
+The Kings: 191.21587\
+Amber Nicholson: 252.55138\
+Tex Williams: 191.242\
+Deborahe Glasgow: 390.32118\
+Bravehearts: 209.03138\
+Robin Fox: 515.65669\
+Hey Colossus: 420.07465\
+Andres Calamaro: 271.59465\
+The London Pops Orchestra: 204.2771\
+Jimmy McGriff: 334.18404\
+Chris Jagger: 248.92036\
+Ty Herndon: 217.15546\
+Danny Davis & The Boys: 169.19465\
+Sugar Ray: 161.82812\
+The Knife: 368.79628\
+REX ALLEN JR.: 165.04118\
+A-FS: 205.94893\
+Janet Paschal: 316.36853\
+La Berg\'e8re: 243.80036\
+Elli Kokkinou: 284.65587\
+Johnny Pearson: 153.70404\
+Mathey: 262.19057\
+Daniel Chan: 222.14485\
+Death SS: 258.29832\
+Los Rumberos Catalanes: 140.19873\
+Bas-Sheva: 178.65098\
+Arco Iris: 201.03791\
+Paulo Flores: 337.08363\
+Phantomsmasher: 382.14485\
+Philly's Most Wanted: 242.25914\
+Ino: 392.35873\
+Cherish The Ladies: 134.81751\
+James Carter: 366.0273\
+Beto y sus Canarios: 197.72036\
+Scott Weiland: 321.01832\
+Atari Teenage Riot: 1598.1971\
+Luiz Bonfa: 305.65832\
+Modern Lovers: 260.62322\
+Academy/Marriner: 377.10322\
+Liquid Stranger: 551.54893\
+Spok Frevo Orquestra: 286.04036\
+Boney James And Rick Braun: 243.48689\
+Daouda: 208.37832\
+Ace Da Vinci: 269.68771\
+Lil' Romeo: 211.82649\
+Moving Ninja: 287.00689\
+Louisa Mark: 156.52526\
+Evergreen Terrace: 241.44934\
+Cookie Crew: 282.33098\
+Cotton Candy: 269.7922\
+Venice: 301.08689\
+S\'e9amus Egan: 276.16608\
+Twista & The Speedknot Mobstaz: 377.86077\
+Leroy Van Dyke: 124.52526\
+Lightnin' Slim: 177.68444\
+The Revolutionary Ensemble: 1253.92934\
+Cool Connection: 274.31138\
+Converge: 407.03955\
+Jack Miles: 174.34077\
+Drexel: 226.32444\
+Cross Country: 193.64526\
+Falco: 271.09832\
+Bug Mafia: 279.77098\
+The Bug Featuring Ricky Ranking: 309.28934\
+All Girl Summer Fun Band: 212.84526\
+Rainbow: 663.24853\
+Eko Fresh: 238.13179\
+Jyve V: 191.92118\
+Taylor Swift: 245.78567\
+Misfits: 201.82159\
+Janis Joplin: 266.23955\
+Tony Mathews: 281.80853\
+Sylvia Tosun: 575.79057\
+La Billo_ Los Mel\'f3dicos: 195.29098\
+Deep Puddle Dynamics: 353.07057\
+A Tundra: 271.3073\
+Ghorwane: 343.40526\
+Vaselines: 207.17669\
+Off Broadway: 244.87138\
+Beto Cuevas: 259.52608\
+Francis Dunnery: 300.79955\
+Catia Werneck: 226.66404\
+Nick Conolly: 307.51302\
+Rupa & the April Fishes: 251.76771\
+Nine Inch Nails: 441.96526\
+Amoral: 520.88118\
+Vitamin C: 256.83546\
+Gob: 209.60608\
+Za\'efko Langa Langa: 250.67057\
+Schizoid: 275.40853\
+Bare Jr.: 254.79791\
+Rebecca Lynn Howard: 243.25179\
+Vincenzo Bellini: 244.61016\
+Wilshire: 184.37179\
+Legacy Five: 286.24934\
+Dark Fortress: 459.33669\
+Cantara: 286.58893\
+Bert Kaempfert And His Orchestra: 201.92608\
+Steve Chou: 323.23873\
+Kardinal Offishall / Keri Hilson: 224.28689\
+THE COOKIES: 149.18485\
+Peppermint Creeps: 153.93914\
+M Sane: 126.87628\
+New Roanoke Jug Band: 216.81587\
+2Fresh: 461.24363\
+Diamond D: 52.79302\
+Ndala Kasheba: 414.1971\
+Latif: 265.1424\
+Matteo Bonfanti e i maledetti: 159.242\
+Jerry Goldsmith: 281.28608\
+Memphis Sheiks: 363.20608\
+Ang\'e9lica Mar\'eda: 171.2322\
+Bacilos: 247.71873\
+Juggler: 231.94077\
+Scalplock: 114.02404\
+The Paynes: 310.20363\
+Micachu: 166.42567\
+MDO: 211.74812\
+Giorgos Tsalikis: 78.05342\
+Massiel: 192.20853\
+Between The Buried And Me: 516.62322\
+Black Eyed Peas / Les Nubians / Mos Def: 235.10159\
+Yahir: 285.28281\
+Lollipop Lust Kill: 265.61261\
+Georges Brassens: 184.76363\
+Ice Cube: 276.03546\
+Chariots: 162.69016\
+Judy Mowatt: 349.51791\
+Dive: 227.36934\
+The Embarrassment: 78.75873\
+Oldelaf et Monsieur D: 540.47302\
+Erja Lyytinen: 111.80363\
+Gustavo A. Santaolalla: 186.5922\
+Naseebo Lal_ Arif Lohar: 1037.68771\
+DJ Taz: 348.02893\
+Starless & Bible Black: 189.43955\
+Widespread Bloodshed: 49.94567\
+Wang Chung: 234.762\
+Willie Bobo: 416.44363\
+Marion Harris: 163.39546\
+Talvin Singh: 350.4322\
+Toby Emerson: 397.42649\
+Deep Forest: 397.76608\
+B\'e9nabar: 243.59138\
+Gruppo Jazz Marca: 749.81832\
+Leonid Rudenko: 395.28444\
+Stewart Francke: 204.14649\
+Bill Perkins: 341.75955\
+Shakedown: 437.9424\
+Wilmington Chester Mass Choir: 308.53179\
+Webb Wilder: 277.10649\
+Semisonic: 280.00608\
+Cursed: 74.68363\
+The Fever: 194.45506\
+Mulberry Lane: 169.58649\
+Paul Rodgers: 269.81832\
+David Cook: 229.45914\
+Margaret Smith: 46.86322\
+Tad: 215.43138\
+Ultimate Fakebook: 183.27465\
+Wilks featuring doniki: 255.00689\
+Tito Rodriguez_ Louie Ramirez: 244.27057\
+Blind Blake & The Royal Victoria Hotel Calypsos: 161.74975\
+Six Brown Brothers: 257.95873\
+Afrob feat. Sarah: 258.19383\
+The Lord Weird Slough Feg: 252.62975\
+Eddie Jones: 114.93832\
+Mario Garcia: 558.28853\
+Milo: 232.38485\
+Orquesta Broadway: 421.35465\
+Andr\'e9a: 288.20853\
+Steve Azar: 274.46812\
+The Suicide Machines: 170.84036\
+Rokia Traor\'e9: 340.50567\
+Charlie Haden & Chris Anderson: 412.21179\
+Janice Robinson: 459.33669\
+Gordon MacRae: 470.9873\
+Major Lance: 141.42649\
+Cherrelle: 290.82077\
+Jim Chappell: 296.12363\
+Mr. Lif: 327.6273\
+Yamandu + Dominguinhos: 276.79302\
+Damita Jo: 182.33424\
+Jarvis Church: 231.73179\
+Minist\'e8re des Affaires Populaires: 140.12036\
+Philip Bailey: 227.47383\
+D.O.W.N.: 350.11873\
+SOL: 251.79383\
+Adolph Hofner: 152.0322\
+Orchids: 175.98649\
+Abracadabra: 194.5073\
+Paloalto: 289.59302\
+Mago de Oz: 380.682\
+Stress Assassin: 229.53751\
+Sugarbomb: 260.93669\
+Darko: 378.67057\
+Jeff Talmadge: 228.62322\
+M\'e4go de Oz: 295.31383\
+Billy Bragg: 180.1922\
+Remi Nicole: 379.37587\
+Crabby Appleton: 186.69669\
+Junior Jack: 482.55955\
+Dave Rave_ Mark McCarron: 165.61587\
+Andr\'e9 Blot: 179.85261\
+Jean-Yves Thibaudet / Gewandhausorchester Leipzig / Herbert Blomstedt: 413.1522\
+Delroy Wilson: 191.99955\
+Los Tres Diamantes: 175.43791\
+Small Facers: 1141.08036\
+Embrace the End: 364.14649\
+Pentangle: 228.51873\
+The B-52's: 313.20771\
+Michael Landau: 597.41995\
+M\'e1ire Brennan: 244.74077\
+Al Denson: 299.33669\
+Whitesnake: 252.08118\
+Dictators: 246.36036\
+Ben E. King: 339.66975\
+Sergio Franchi: 203.72853\
+Sulk: 552.93342\
+The Accursed: 171.15383\
+Five Blind Boys of Alabama: 131.81342\
+Shania Twain: 278.54322\
+Les Rythmes Digitales/ Tzant Feat. ODC MC: 186.40934\
+Yank Rachell: 184.73751\
+Jo-El Sonnier: 233.01179\
+Hurricane: 236.042\
+Sasha: 733.88363\
+Lauren Wagner & Fred Weldy: 51.12118\
+BLEED THE SKY: 202.91873\
+Tony Danza Tap Dance Extravaganza_ The: 198.66077\
+Mr. Sancho: 216.81587\
+Fred Locks: 243.43465\
+Dolores Keane: 272.5873\
+Will Pan: 235.85914\
+Restless Heart: 210.46812\
+Christos Kedras: 321.64526\
+Speaker: 188.29016\
+Deckard: 175.90812\
+Doyle Bramhall: 254.35383\
+Mirah: 158.09261\
+Tantric: 177.24036\
+Bedwetters: 202.91873\
+Hot Wire: 194.66404\
+James Ingram: 376.68526\
+Danilo Perez / Claus Ogerman: 459.31057\
+Barrio Obrero: 231.47057\
+Redman / Hurricane G / Melanie Rutherford: 113.65832\
+Supertalented: 96.65261\
+Methods Of Mayhem / Scott Kirkland: 199.31383\
+Onyx: 317.46567\
+Ed Byrne: 330.63138\
+The Aftermath: 118.30812\
+Lil Boosie: 243.35628\
+Candlebox: 312.842\
+Autonomous Bass Heads: 307.722\
+The Oh Sees: 162.37669\
+Johnny Pacheco/Rolando La Serie: 136.09751\
+Barley Bree: 279.58812\
+Beres Hammond: 252.55138\
+La Mancha De Rolando: 243.98322\
+Tony Martin: 216.24118\
+Larry Graham & Graham Central Station: 277.62893\
+Storyville: 343.58812\
+Edwin Hawkins: 358.19057\
+F.l.y.: 20.79302\
+Geiom Ft. Marita: 291.26485\
+Orbit: 254.45832\
+Rhian Sheehan: 314.48771\
+Edith Lefel: 276.50567\
+Kassav': 655.67302\
+The Skabs: 121.65179\
+Clarisse Lavanant: 182.59546\
+BeauSoleil: 268.30322\
+Charlie Byrd / Laurindo Almeida: 172.43383\
+Cumberland Quartet: 192.88771\
+Mest: 255.50322\
+Edu Lobo: 309.52444\
+Roommate: 367.01995\
+Gang Starr: 316.02893\
+Brian Eno And David Byrne: 296.33261\
+Hot Club Of Detroit: 371.04281\
+Babe Ruth: 365.16526\
+The Stranglers: 217.96526\
+Faith Yang: 134.97424\
+Ketty DB: 203.83302\
+Greg Vaccariello: 133.66812\
+Mike Brooks: 132.93669\
+Symphony in Peril: 245.13261\
+This Moment: 213.21098\
+Luke Bryan: 192.44363\
+Alvin Youngblood\'a0Hart: 159.39873\
+Rea_ Chris: 366.28853\
+Spiral Stairs: 146.99057\
+Ice: 421.61587\
+Tsar: 220.42077\
+Luke Vibert: 420.15302\
+ISRAEL & NEW BREED: 199.57506\
+Mystery: 216.73751\
+Maurice Chevalier: 214.5171\
+Nu Flavor: 242.38975\
+Smart Alex: 543.58159\
+AFS: 220.08118\
+She Satellites: 149.36771\
+The Booth Brothers: 244.92363\
+Joe Turner_ Joe Houston_ L. C. Williams: 171.31057\
+Eberhard Weber: 279.06567\
+Paul Simon: 137.40363\
+The Chieftains;Colin James: 218.33098\
+Jimmy Herring: 359.8624\
+Vivian Khor: 253.12608\
+Twinkle Twinkle Little Rock Star: 238.52363\
+Teijo Joutsela and Humppa-Veikot: 159.63383\
+The Edgar Broughton Band: 594.85995\
+Laidback Luke & Diplo: 431.51628\
+Deathstar: 229.8771\
+Wes King: 233.45587\
+Gary Hobbs: 289.64526\
+Saga: 294.73914\
+Art Blakey's Jazz Messengers: 670.04036\
+Lifehouse: 360.95955\
+Voyager Series: 103.73179\
+Don Campbell: 223.29424\
+The Incurables: 276.63628\
+Frank Marino & Mahogany Rush: 336.79628\
+Izzy Stradlin And The Ju Ju Hounds: 267.65016\
+John Wayne: 192.70485\
+Concretes: 204.85179\
+The Panic Channel: 227.99628\
+Rocker-T: 321.30567\
+The Galactic Heroes: 120.86812\
+Anan\'e9: 409.70404\
+Ismael Due\'f1as: 537.25995\
+Rated R: 249.75628\
+Black Eyed Peas / Terry Dexter: 275.04281\
+Sir Douglas Quintet: 193.59302\
+Defect & Quixotic: 267.75465\
+Gov't Mule: 378.95791\
+Rockin' Dopsie_ Jr.: 205.71383\
+Thriller U: 235.12771\
+The Cars: 234.50077\
+De La Soul / MF Doom: 185.23383\
+Alex: 298.52689\
+J Bostron & Beretta: 320.93995\
+Walter Jackson; Arranged & conducted by Riley Hampton: 211.25179\
+Mark Ashley: 198.19057\
+Richard Lloyd: 172.77342\
+Paul Cantelon: 210.54649\
+The Rapture: 277.02812\
+June Hutton: 138.34404\
+Fl\'e4skkvartetten / Th\'e5str\'f6m: 185.80853\
+Marc Et Claude: 361.01179\
+Chuck Wicks: 222.01424\
+Steinski: 169.97832\
+Red I Flight: 259.29098\
+Tommy Sands: 153.0771\
+Lexi: 244.03546\
+Ronny Eriksson: 208.87465\
+Attack Attack: 83.98322\
+Lunasicc: 304.37832\
+I Nuovi Angeli: 231.07873\
+Juelz Santana / Bezel: 254.51057\
+Baby D: 231.18322\
+The Fontane Sisters: 149.99465\
+Morgion: 341.68118\
+JERRY WALLACE: 180.50567\
+Wild Horses: 338.28526\
+Beenie Man Featuring Janet Jackson: 215.90159\
+The Ruby Suns: 70.89587\
+ColdWorld: 344.68526\
+Cats In Boots: 208.79628\
+Mastodon: 654.28853\
+Brenda Boykin: 263.73179\
+Jazzy B: 411.68934\
+Coffinberry: 146.83383\
+I Wayne: 244.32281\
+Trivium: 678.76526\
+Rusted Shut: 296.80281\
+Lords Of The Underground: 264.69832\
+Pascal Sangla: 333.76608\
+Alfredo Kraus/Paul Plishka/Matteo Manuguerra/Sherrill Milnes/Trinity Boys' Choir/Ambrosian Opera Chorus/National Philharmonic Orchestra/James Levine: 34.55955\
+Jamie Richards: 269.84444\
+Patsy Cline: 168.95955\
+Elizete Cardoso: 206.47138\
+Maria Callas/Giuseppe di Stefano/Ettore Bastianini/Silvana Zanolli/Luisa Mandelli/Giuseppe Zampieri/Arturo La Porta/Antonio Zerbini/Silvio Maionica/Coro e Orchestra del Teatro alla Scala_ Milano/Carlo Maria Giulini: 112.14322\
+Tayfun: 343.50975\
+Dilated Peoples Featuring Capleton: 311.06567\
+Walter Ego: 535.45751\
+CMW - Compton's Most Wanted: 217.62567\
+Anthony Blea Y Su Charanga: 459.28444\
+Alan Feinberg: 155.19302\
+Loop Guru: 521.9522\
+Didier Fran\'e7ois: 183.19628\
+Swim: 311.58812\
+Ray Price: 125.1522\
+Maurice Chevalier / Fran\'e7oise Dorin / Marina Hottine / Suzanne Gabriello / Jo Charrier / Marcel Carpentier / Perrette Souplex / Andree Grandjean / Cadet Rivers / Raymond Girerd / Orchestre De Jacques-Henri Rys / Jacques Henri Rys: 213.55057\
+Sun Yan-Zi: 285.962\
+The Knux: 200.25424\
+The Gaskets: 232.69832\
+Jean Carnigan: 177.47546\
+Rakim: 79.93424\
+Styles P & The Evil Genius DJ Green Lantern: 235.04934\
+Jack Off Jill: 149.36771\
+Palito Ortega: 156.96934\
+Rick Ross / Carol City Cartel: 227.57832\
+Claudio: 317.77914\
+Buddy Miles: 218.3571\
+Weedeater: 269.00853\
+MC Sadri: 178.96444\
+Special Duties: 162.87302\
+At The Gates: 286.04036\
+D\'e9d\'e9 Saint Prix_ Pakatak: 257.27955\
+Jennifer Lopez featuring Ja Rule: 263.20934\
+Terror Squad / Remy / Prospect / Armageddon: 251.89832\
+G.G. Allin: 95.50322\
+Los Indios Tabajaras: 171.28444\
+The Bureau De Change: 220.89098\
+Foals: 315.27138\
+Marquez the Greatest: 72.17587\
+Drowning Pool: 248.78975\
+RyanDan: 255.76444\
+Jay Randall: 222.24934\
+Obie Bermudez: 271.25506\
+Mar\'eda: 259.86567\
+Karen Peck & New River: 218.98404\
+Word: 229.51138\
+Vince Taylor: 200.04526\
+Kostis Maraveyas: 247.7971\
+Carolyn Arends: 231.36608\
+Israel & Moises: 213.65506\
+The Equals: 182.88281\
+Charley Patton: 196.62322\
+Samba Trio: 121.10322\
+Tammy Pescatelli: 129.82812\
+Ken Yokoyama: 172.82567\
+Big Dee Irwin: 156.02893\
+Ice Cube Featuring Flavor Flav: 130.7424\
+Sara Melson: 164.12689\
+Sam Fan Thomas: 433.42322\
+Koordinate Of Wonders: 218.74893\
+Roberto Perera: 224.93995\
+Erik Tronic: 257.09669\
+Hecklah & Coch: 263.33995\
+The Bug Featuring Spaceape: 327.99302\
+Montserrat Caball\'e9: 198.13832\
+Daryl Coley: 352.88771\
+The Keys: 143.01995\
+Trentemoller: 368.74404\
+John Doan: 274.99057\
+Charanga de la 4: 329.97832\
+Johnny Otis Show: 164.8322\
+Big John Greer: 155.45424\
+Ramesses: 608.7571\
+Eastmountainsouth: 225.61914\
+Richard Hell & The Voidoids: 494.10567\
+Love Jones: 384.13016\
+V'ro: 282.53995\
+:Blacks On :Blondes: 383.58159\
+Alphonse Mouzon: 355.21261\
+African Rhythm Messengers: 235.28444\
+James Blackwood with The Light Crust Doughboys: 138.16118\
+Clarence Profit: 166.97424\
+Perfection: 379.27138\
+Turibio Santos: 145.94567\
+Albert Ayler: 632.34567\
+DJ Envy: 278.38649\
+Fred Simon: 228.70159\
+From Dying Skies: 222.58893\
+Dub Pistols feat. TK: 264.82893\
+David Phelps: 277.21098\
+Edgar De L'est: 317.28281\
+Pheeroan Aklaff: 145.97179\
+Cirrus: 210.05016\
+Cybertribe: 387.97016\
+Seventh Star: 184.842\
+Incubus: 353.77587\
+Marco Polo: 403.85261\
+Brian Keane: 216.05832\
+Dishwalla: 540.42077\
+Little Junior Parker: 160.78322\
+Zimbabwe Legit: 235.91138\
+Jesse Malin and The St. Marks Social: 243.722\
+Hemdale: 166.68689\
+Spinal Tap: 235.41506\
+Everyday Sunday: 269.73995\
+Souls Of Mischief: 220.96934\
+Theodis Ealey: 227.44771\
+Ang\'e9lla Christie: 348.36853\
+The Race: 225.17506\
+Neviss: 169.66485\
+Les Sexareenos: 98.89914\
+Outerspace: 242.78159\
+Los Van Van: 268.042\
+Angelo Badalamenti: 209.89342\
+Photo Atlas: 189.75302\
+Andre Popp: 220.94322\
+C\'e2ndido: 232.88118\
+Ram\'f3n Vargas_ S\'e4ngerknaben Luzerner Kantorei_ Henk Geuke_ Concilium Musicum Wien & Paul Angerer: 207.04608\
+Kenny Price: 129.25342\
+Horace Andy: 284.47302\
+Naughty By Nature;Naughty By Nature featuring Zhane: 213.91628\
+Br\'f6derna Djup: 126.6673\
+Laid Back: 196.72771\
+The Grease Band: 325.25016\
+John And The Bluesbreakers Mayall: 304.8224\
+Z.Z. Hill: 333.322\
+Tommy James & The Shondells: 324.70159\
+Jerry Yan: 277.18485\
+The Clark Sisters: 416.70485\
+We Show Up On Radar: 194.71628\
+C-Side & Petit Mal: 212.47955\
+Jewel: 529.91955\
+Las Ketchup: 195.73506\
+Les Blaireaux: 297.76934\
+Acorps de Rue: 194.79465\
+John Legend [feat. Buju Banton]: 184.73751\
+Our Time Down Here: 75.49342\
+Bury Your Dead: 290.63791\
+Saosin: 254.27546\
+DJ Ostkurve: 207.43791\
+Reni: 222.14485\
+Baby Grand: 294.55628\
+Cinder: 218.61832\
+Hatesex: 376.08444\
+Speedball: 212.21832\
+B\'e9la Fleck: 158.98077\
+Javier Mendoza Band: 295.57506\
+Matisyahu: 417.67138\
+Eddie Money: 213.68118\
+Foxy Brown: 222.92853\
+Portable: 369.60608\
+String Trio Of New York: 392.4371\
+Ram\'f3n Vargas;Vladimir Jurowski: 278.38649\
+Christian McBride: 692.06159\
+Enthroned: 240.74404\
+Bamberg Symphony Orchestra and Hans Swarowsky: 151.01342\
+Tom Petty And The Heartbreakers: 274.20689\
+Pride Tiger: 229.22404\
+Anubis Spire: 316.89098\
+Beaver Harris: 193.4624\
+The Balustrade Ensemble: 285.3873\
+Prisma: 219.66322\
+Enslavement Of Beauty: 313.75628\
+C.J. Chenier: 189.33506\
+liquid soul & freq: 402.62485\
+Dean Elliott And His Big Band: 150.33424\
+Fort Minor (Featuring Mr. Hahn): 236.66893\
+Steve Wilson: 260.38812\
+Francisco C\'e9spedes: 204.53832\
+Indigenous: 201.482\
+Charlie Cruz: 288.83546\
+Slightly Stoopid: 118.49098\
+Los Abuelos De La Nada: 194.01098\
+Maurane / Lara Fabian: 198.86975\
+MN: 378.06975\
+Dilated Peoples: 236.59057\
+The Animals_ Sonny Boy Williamson: 463.49016\
+Warren Barfield: 216.81587\
+X-Static: 262.79138\
+Silv\'e9rio Pessoa: 364.48608\
+Ty Herndon;Stephanie Bentley: 295.3922\
+The Master Musicians of Jajouka featuring Bachir Attar: 623.72526\
+Tina Britt: 177.94567\
+Deborah Allen: 189.57016\
+Faye Adams: 156.39465\
+Bizzy Bone Presents: 50.9122\
+Alex Theory: 317.88363\
+Antonio Bribiesca: 181.91628\
+Trick Trick / Eminem: 285.49179\
+Ulytau: 233.76934\
+BigElf: 298.13506\
+Fudge Tunnel: 325.72036\
+The Exies: 201.87383\
+Donnie Brooks: 174.34077\
+Eliane Elias: 326.42567\
+Clay Crosse: 286.74567\
+Jos\'e9 Roberto Bertrami: 204.87791\
+Danger Danger: 292.85832\
+Royal S: 285.98812\
+Kurupt: 207.98649\
+Esa Pakarinen: 202.86649\
+Vilma E Vampiros Palma: 265.32526\
+Frankie Negron: 260.8322\
+Albert King: 668.62975\
+Roger Subirana: 288.07791\
+Epitaph: 494.21016\
+Oscar Castro-Neves: 197.38077\
+The Cliks: 199.78404\
+BT feat. JES: 550.97424\
+Jaci Velasquez: 306.65098\
+Arika Kane: 245.13261\
+Mystic Revelation of Rastafari: 250.90567\
+Suzy Thompson: 196.91057\
+Juan Diego Fl\'f3rez / Riccardo Frizza / Orchestra Sinfonica di Milano Giuseppe Verdi: 222.61506\
+Event Horizon: 440.76363\
+Bob Neuwirth: 312.5024\
+Lockwood: 256.46975\
+Fenton Robinson: 263.73179\
+Cabin Crew: 194.97751\
+9th Wonder: 184.92036\
+Vusi Mahlasela: 358.71302\
+Scissors for Sparrow: 225.27955\
+Sin Plomo feat. Boris G.: 299.72853\
+Sanna Nielsen: 200.30649\
+Liquid Soul: 285.28281\
+MyKungFu: 209.57995\
+Buckwheat Zydeco: 416.23465\
+Frederic Galliano: 1394.75546\
+Lambda: 180.79302\
+Room 5: 403.01669\
+Byron Cage featuring Tye Tribbett: 240.43057\
+Pascal Obispo: 369.26649\
+Quincy Jones: 204.82567\
+Ministry of Sound: 1686.7522\
+Kamelo Punto Semos: 258.84689\
+Opiate For The Masses: 233.11628\
+Rooney: 199.28771\
+Timothy Byram-Wigfield: 473.46893\
+Jazz Crusaders: 406.07302\
+8Ball & MJG: 236.93016\
+Stanley Clarke & George Duke: 339.09506\
+Plump DJs: 490.55302\
+The MC5: 149.96853\
+Craig Wedren: 155.27138\
+Nybbl: 232.202\
+Orquesta Harlow: 281.59955\
+The Harvey Averne Dozen: 166.81751\
+The Russell Family: 96.86159\
+Ya Boy: 208.14322\
+Belle and Sebastian: 250.69669\
+Viktor Krauss: 243.1473\
+Cliff Bruner: 188.31628\
+Tha Liks featuring Defari: 233.92608\
+Kate Clinton: 186.53995\
+Vin\'edcius de Moraes: 243.53914\
+Ten Wheel Drive: 272.84853\
+Dead Hearts: 44.30322\
+Sylver: 170.50077\
+Ale M\'f6ller: 184.42404\
+Jean Carignan: 189.72689\
+The Dylans: 410.98404\
+Grupo Sierra Maestra: 239.46404\
+Junie: 243.69587\
+Mark Feldman_ John Taylor_ Anders Jormin_ Tom Rainey: 527.82975\
+Carman featuring Commissioned & The Christ Church Choir: 326.26893\
+Forensics: 415.45098\
+Ricky Martin Feat. La Mari de Chambao: 247.87546\
+Los Bar\'f3n De Apodaca: 213.7073\
+France D' Amour: 232.202\
+Miguel Gallardo: 238.68036\
+Sandy Posey: 165.19791\
+Taking Dawn: 236.79955\
+Graham Central Station: 229.27628\
+Harry Diboula: 249.88689\
+Mawatari Matsuko: 253.77914\
+Doc & Merle Watson: 140.5122\
+DMX / Dyme: 233.40363\
+Movado: 182.07302\
+Sonny Simmons: 699.03628\
+Peter Tosh: 371.1473\
+Varios Artistas de Rumba: 171.88526\
+B.o.B: 269.63546\
+Maxi Priest: 301.81832\
+Inner Circle: 227.81342\
+Kaizers Orchestra: 317.49179\
+Billie Ray Martin Feat. Ann Peebles: 466.96444\
+Lupe Fiasco feat. Matthew Santos: 213.34159\
+Chorus Line: 150.69995\
+The Honeydogs: 221.07383\
+Kokane: 208.03873\
+Pete Rock & C.L. Smooth: 286.69342\
+Bescenta: 243.1473\
+Ken Chu: 281.93914\
+Y&T: 285.1522\
+Marco Rima: 362.9971\
+Letters To Cleo: 220.76036\
+Migraine: 110.75873\
+Africando: 460.48608\
+Kenny G Featuring Brian McKnight: 232.25424\
+Don Davis: 255.32036\
+Brasilian Tropical Orchestra: 191.03302\
+Wordsworth: 254.98077\
+Joa~o Gilberto: 98.14159\
+Guillaume Ledent: 229.8771\
+Perpetual Loop: 386.97751\
+Dwayne_ Gyptian: 245.52444\
+Bikini Machine: 280.76363\
+Cartel: 234.1873\
+Atomship: 296.04526\
+Buffalo Nickel Band: 200.25424\
+The Exciters: 194.53342\
+Skyforger: 252.81261\
+Mother Superior: 169.63873\
+Bobby Marchan: 156.23791\
+Patti Smith Group: 284.21179\
+Disembowelment: 460.56444\
+Spongebob Squarepants: 144.61342\
+M83: 1071.882\
+Commander Cody & His Lost Planet Airmen: 162.45506\
+Rodney O_ Joe Cooley: 222.27546\
+Toby Love Feat. Girlz Talk: 230.86975\
+Adam Richmond: 36.10077\
+Misty Roses: 290.7424\
+Little Angels: 229.01506\
+Daughters: 64.9922\
+Shai Hulud: 188.29016\
+Bruce BecVar: 257.93261\
+Mario Piu: 430.54975\
+Ill Ni\'f1o: 218.43546\
+Dark new Day: 278.02077\
+Gina V. D'Orio: 139.91138\
+Twin Atlantic: 240.19546\
+Unkle Bob: 252.18567\
+Kenny Wayne Shepherd: 386.48118\
+False Prophets: 242.88608\
+Mystic Rhythms Band: 453.66812\
+Fabri Fibra: 267.36281\
+Toby Love featuring Rakim & Ken-Y: 260.28363\
+Taya wooden: 267.59791\
+Mick Moloney: 204.95628\
+Buddy Johnson: 171.38893\
+Jaime Jamgochian: 231.60118\
+Delirious: 225.14893\
+John Stewart: 290.53342\
+Cam'Ron / Juelz Santana / Jimmy Jones: 301.50485\
+Maddox Brothers and Rose: 145.162\
+Big Jay Oakerson: 172.5122\
+Adam Richman: 344.94649\
+Jay & The Americans: 174.68036\
+Peter Gallagher: 182.282\
+Terror Squad featuring Big Pun: 199.99302\
+Becoming The Archetype: 389.95546\
+Mocambo Allstars: 231.81016\
+Eko Fresh feat. G-Style: 266.57914\
+Ed Bruce: 165.25016\
+Dala: 240.27383\
+Intex Systems: 131.13424\
+Mt. Wilson Repeater: 299.88526\
+Lily Allen Featuring Ours: 189.20444\
+Sleepy D: 251.08853\
+Bone Loc: 329.63873\
+Catherine Howe & Vo Fletcher: 242.62485\
+David Palmer: 486.94812\
+Big Mama Thornton with Kansas Bill and his Orchestra: 169.84771\
+Jeanne Pruett: 193.01832\
+Anneli Drecker: 262.50404\
+Rajery: 294.24281\
+Sukhbir: 339.87873\
+Johnny Carver: 169.27302\
+Wolfchant: 208.56118\
+Barry Manilow Featuring The Glenn Miller Orchestra with Debra Byrd: 172.06812\
+Aynsley Lister: 227.10812\
+Lester Bowie: 327.18322\
+Grachan Moncur III: 474.06975\
+Line Renaud - Dean Martin: 173.13914\
+Karan Casey: 189.88363\
+Antimatter: 479.45098\
+Vilma Palma: 202.78812\
+Jim Breuer: 478.92853\
+Jeckyll & Hyde: 220.55138\
+Josie: 303.20281\
+G Unit feat. 50 Cent: 101.43302\
+The Waybacks: 288.49587\
+Illya Kuryaki And The Valderramas: 233.97832\
+Flutlicht: 513.56689\
+Patric C: 286.4322\
+Capone-N-Noreaga: 217.41669\
+Jean-michel Rotin: 177.91955\
+Boyz II Men: 329.27302\
+Space Opera: 82.18077\
+The Unborn Chikken Voices: 217.91302\
+Ben Harper And The Blind Boys Of Alabama: 234.65751\
+Extrabreit: 283.14077\
+Deitrick Haddon: 234.47465\
+The Plimsouls: 192.13016\
+A-Studio: 421.27628\
+Planet P Project: 271.82975\
+Lightnin' Hopkins: 70.53016\
+Jean-Claude Darnal: 134.76526\
+Adalberto Santiago: 299.93751\
+Richard Hawley And Death Ramps_ Arctic Monkeys: 139.78077\
+V Sinizter: 205.73995\
+Hi-Fi Companions: 464.5873\
+Charlie Patton: 173.322\
+Mr. Kilombo: 217.7824\
+Paquito Guzman: 327.67955\
+Polkaholix: 196.93669\
+The Birds: 162.66404\
+East To West: 253.59628\
+Pat Metheny / Charlie Haden: 373.41995\
+Barbara Lynn: 156.42077\
+Beat Pharmacy: 569.46893\
+David Raksin: 141.40036\
+Al Toomer: 225.90649\
+Sivuca & Cl\'e3 Brasil: 234.16118\
+Rod Piazza & The Mighty Flyers: 257.2273\
+Jawoll: 235.31057\
+All Shall Persih: 215.61424\
+Wilks featuring jah mason: 249.75628\
+Malina: 239.72526\
+Flickerstick: 280.89424\
+A Skylit Drive: 88.86812\
+Fiasko: 403.19955\
+Mil featuring Memphis Bleek: 265.29914\
+Prince With 94 East: 364.5122\
+F.I.R.: 248.0322\
+Shapeshifters: 467.43465\
+Cristina Pato - Mutenrohi: 331.88526\
+Steinwolke: 409.88689\
+Drouz: 286.98077\
+12 Gauge: 185.28608\
+Clarence Fountain: 312.08444\
+Caniche Hara-Kiri: 178.15465\
+The Jeremy Spencer Band: 327.05261\
+Pale Forest: 183.61424\
+Midnight Fish: 300.82567\
+Ideal: 191.73832\
+Tijuana Hercules: 178.49424\
+Patrick Samson: 101.85098\
+Dj Kun: 219.74159\
+Kooii: 391.00036\
+Finest Dearest: 299.75465\
+Wade Ray: 135.78404\
+Boogie Pimps Feat. Steve Brookstein: 322.53342\
+Brian Littrell: 236.45995\
+Robin Beanland: 140.7473\
+George Huff: 249.49506\
+Protein: 214.09914\
+Midge Ure: 287.52934\
+D\'e9d\'e9 Saint-Prix: 310.83057\
+Paramore: 243.51302\
+Charley Pride: 188.02893\
+Elton Britt: 132.85832\
+Jean Fauque: 219.01016\
+Hellsongs: 272.14322\
+Bobby Blue Bland: 346.8273\
+Jimmy Page_ John Paul Jones_ Albert Lee_ Nicky Hopkins_ Big Jim Sullivan_ Clem Cattini_ Chris Hughes: 131.34322\
+Van Gelder: 474.61832\
+Roger Clyne & The Peacemakers: 170.81424\
+Sundial Aeon: 459.93751\
+Loudon Wainwright III: 190.48444\
+Olga Ta\'f1on: 254.1971\
+089 Clique feat. Prophet: 174.602\
+Ian Moore: 151.09179\
+Chris Rodriguez: 263.18322\
+Los Del Sol: 232.202\
+John Debney: 193.51465\
+Emery: 186.51383\
+Eri Esitt\'e4ji\'e4: 158.58893\
+Seven Mary Three: 283.16689\
+The Temper Trap: 232.75057\
+Alexis HK: 202.94485\
+Major Lazer / Vybz Kartel / Afrojack: 187.0624\
+Pietari Inkinen: 344.73751\
+Aftermath: 376.89424\
+Ginny Owens: 256.39138\
+Angelo Badalamenti / Patrick Wolf: 124.83873\
+Bobby Capo: 178.25914\
+Jeremy Fisher: 257.64526\
+Play: 289.2273\
+Daan Junior: 413.49179\
+Head Horny's: 392.56771\
+Oceansize: 249.93914\
+Dijous Paella: 253.93587\
+Roberto Roena: 224.522\
+089 Clique feat. Minnesota Snipe & Skinny Cueball: 213.68118\
+Beatnuts featuring Tony Touch: 135.13098\
+London Theatre Orchestra: 163.65669\
+Jeff Johnson: 433.97179\
+Nick Jonas & The Administration: 214.72608\
+Peter Hunnigale: 228.10077\
+Eldar: 579.13424\
+Silkie Ft. Harry Craze: 365.76608\
+Lou Busch: 147.30404\
+The Strokes: 191.29424\
+Killers: 218.8273\
+Sportsguitar: 231.00036\
+3OH!3: 211.66975\
+Enuff Z 'Nuff: 277.28934\
+Kate Maki: 177.52771\
+Johannes Linstead: 298.10893\
+Le Vangle: 258.2722\
+Coco Montoya: 233.482\
+Virtue: 223.05914\
+J. Peter Robinson: 161.59302\
+Black Tambourine: 236.35546\
+Nikki Fletcher / Tim Hughes / Various Artists: 219.16689\
+23rd Turnoff: 143.80363\
+Metsat\'f6ll: 269.81832\
+Laura Mikkola: 28.23791\
+Cyril Pahinui: 458.91873\
+Mitch Ryder & Engerling: 302.31465\
+Cobra Killer: 233.40363\
+Prince & Tevin Campbell: 235.78077\
+Los Mu\'f1equitos De Matanzas: 301.19138\
+Carlos Embales - Cutumba: 418.2722\
+Maria & Margot Hellwig/Thomas Lehrberger: 192.78322\
+Ruben Cossani: 10.68363\
+Beres Hammond Feat. Natural Black: 223.4771\
+Ashbrg: 164.57098\
+Dub Pistols feat. TK & JMS: 238.18404\
+Manjul: 226.21995\
+John Pagano_ Burt Bacharach: 289.48853\
+La Divina Pastora: 327.78404\
+Kellie Coffey: 187.16689\
+Pete Philly & Perquisite: 269.40036\
+Leningrad Cowboys: 195.5522\
+Ebru G\'fcndes: 248.99873\
+Tum Tum / Double T / LiL Ronnie: 214.02077\
+Old Soul: 85.99465\
+Way Out West: 155.89832\
+QBO: 189.6224\
+Old Man's Child: 317.12608\
+John Van Tongeren: 45.37424\
+Os Gaiteiros de Soutelo: 152.94649\
+Michelle Wright: 171.4673\
+Toby Love featuring Julio Voltio: 278.12526\
+Hotwire: 223.63383\
+Sharon Shannon_ Carol Keogh: 199.88853\
+Los Munequitos de Matanzas: 184.21506\
+The Oak Ridge Boys: 154.8273\
+The Verve Pipe: 292.8322\
+The Game / Nas: 345.59955\
+Deborah Coleman: 230.60853\
+Kevin Burke: 186.53995\
+The Chinese: 357.51138\
+Moments In Grace: 254.4322\
+Xose Manuel Budi\'f1o: 365.47873\
+Norther: 122.72281\
+Djalma Correa: 285.88363\
+Mira: 277.99465\
+JC Lodge: 217.65179\
+Sick On The Bus: 178.65098\
+The Products: 117.2371\
+Mylon LeFevre: 146.9122\
+K'Naan: 249.12934\
+The Florida Boys: 210.88608\
+AZ: 134.81751\
+Carlos Jimenez_ J Elvira_ Oliversam: 367.46404\
+Nino Nardini: 33.20118\
+Pascal Lejeune: 168.01914\
+T.G.Sheppard: 247.87546\
+Ray Vega: 237.06077\
+Kirk Franklin: 264.85506\
+Recluse: 436.21832\
+Los Titanes: 235.93751\
+Pariah: 501.83791\
+Ron Goodwin: 185.46893\
+Anna Meliti: 208.50893\
+Percy Faith & His Orchestra: 195.02975\
+Columbia Symphony Orchestra;Igor Stravinsky: 135.88853\
+Ann Hampton Callaway;Laura Benanti;Michael Gruber;Everett Bradley: 217.73016\
+Vorstadtkinder: 291.21261\
+Johnny Otis: 182.46485\
+Soundgarden: 415.81669\
+Leon Berry: 171.59791\
+The Cannanes: 188.31628\
+Lynette Schultz: 250.98404\
+Janet Paschal/Charlotte Ritchie/David Phelps: 202.4224\
+Pantanito: 51.12118\
+Paul Thorn: 236.53832\
+Scarlet's Remains: 215.90159\
+Tony Malone And The Rapparees: 267.85914\
+The Radio Dept: 207.20281\
+Todos: 224.39138\
+Fontaine Sisters: 199.00036\
+Dixieland Jug Blowers: 193.56689\
+iTAL tEK: 293.09342\
+Scheich: 344.81587\
+RUN-DMC Featuring Jagged Edge: 197.77261\
+Electric O & Ishkan: 304.09098\
+Kyle Riabko: 211.53914\
+Catherine Howe: 257.14893\
+Kat Deluna / Akon: 188.96934\
+Beyonc\'e9 feat. Slim Thug: 211.17342\
+The Firesign Theatre: 108.25098\
+Slick Rick: 169.69098\
+Marco Demark feat. Peter Millwood: 521.56036\
+Ghost Machine: 201.29914\
+Svartthron: 323.60444\
+Billy Higgins_ Bob Berg_ Cedar Walton_ Tony Dumas: 451.34322\
+The Rongetz Foundation: 456.64608\
+The Field Mice: 335.46404\
+Jah Legacy: 262.21669\
+Hatebreed (int License): 174.28853\
+Champion Jack Dupree With TS McPhee: 192.15628\
+XLNC: 386.55955\
+Artie Fishel & The Promised Band: 145.76281\
+Papoose: 46.47138\
+Astrovamps: 235.72853\
+Jimmy Durante: 233.37751\
+Undertakin' Daddies: 177.94567\
+Lord Sterling: 315.16689\
+Cargo Cult: 240.09098\
+Gerard Lenorman: 227.39546\
+Chanta Vielma: 244.24444\
+Raymond Lef\'e8vre: 114.99057\
+Carl Doy: 233.58649\
+Mothers Pride: 244.71465\
+Grand Funk: 217.73016\
+Weirdos_ The: 161.27955\
+Kat DeLuna: 213.4722\
+Mobb Deep featuring Nate Dogg: 195.65669\
+DJ Spinn and DJ Rashad: 209.94567\
+El Poder del Norte: 223.05914\
+Ana Nikolic: 263.00036\
+Zapp: 244.53179\
+Ximena Sarinana: 218.04363\
+Jesus Otero - Luny Tunes: 191.76444\
+Sean Callery: 212.84526\
+Bob Azzam: 191.84281\
+Rick Snel: 465.99791\
+Claude Fran\'e7ois: 197.25016\
+Torcuato Mariano: 295.02649\
+Amy Lambert: 288.67873\
+Dobby Dobson: 193.56689\
+Baby Bash / Grimm: 231.07873\
+Jimmy Nelson: 178.78159\
+Sao Paris: 279.43138\
+Bangalafumenga: 188.89098\
+Juliette & The Licks: 241.37098\
+Angel Romero: 110.05342\
+The Cufflinks: 167.00036\
+Dimitri Tiomkin: 192.7571\
+Richard Burton: 171.49342\
+Sean Quinn: 217.52118\
+Fuel: 159.42485\
+Frederick Knight: 198.81751\
+Tr\'e8s: 430.0273\
+Oscar Pettiford: 151.92771\
+Nicola Fasano feat. Paula B.: 220.31628\
+Equilibrium: 219.03628\
+Livingston Taylor: 285.88363\
+Fortitude: 260.46649\
+Rhinostar: 206.99383\
+Chops: 171.2322\
+Martriden: 355.94404\
+D:Fuse: 352.93995\
+Jorgen Ingmann: 129.01832\
+Sound 5: 469.62893\
+Through the Eyes of the Dead: 41.482\
+Diego Verdaguer: 171.04934\
+Cavo: 207.0722\
+Lil Mz. 313 featuring DJ Rashad: 231.73179\
+Screaming Jay Hawkins: 128.96608\
+Wonderland: 172.30322\
+3 Steps Ahead: 45.50485\
+Whitney Cummings: 78.91546\
+Sneaky Sound System: 342.02077\
+Singing Melody Feat. Robyn: 213.31546\
+Isaacs: 194.01098\
+Alex Fong: 191.97342\
+The Flies: 222.40608\
+Zombina & The Skeletons: 198.16444\
+The Jane Shermans: 235.49342\
+Mei Chi Chiang: 73.03791\
+Dancecore Allstars: 223.29424\
+Sean Kingston: 184.58077\
+Monique Marvez: 639.60771\
+A Challenge Of Honour: 242.28526\
+MU330: 132.44036\
+Ed Calle: 253.51791\
+Boards of Canada: 472.52853\
+Los Brujos: 36.54485\
+Die Symphony: 231.67955\
+Jimmy Wyble: 181.96853\
+Paul Geremia: 204.56444\
+Riviera Regime: 275.22567\
+Tha Liks featuring King T: 251.6371\
+Kool Keith: 258.19383\
+Chris Vickery: 191.7122\
+The Family Stand: 413.54404\
+The Jets & The Sharks & Leonard Bernstein&The New York Philharmonic Orchestra: 185.99138\
+Lou Reid & Carolina: 145.94567\
+Jacob Young: 456.30649\
+Lisa Lisa & Cult Jam (featuring Full Force): 285.12608\
+Sugarman Three: 200.35873\
+Faking David: 196.54485\
+Bobby Russell: 130.71628\
+Juanes: 332.5122\
+Count Ossie: 234.9971\
+Dave Baby Cortez: 125.6224\
+Coraleena Ellis: 250.77506\
+Kapelle Herrenweide: 270.62812\
+Elmer Bernstein: 231.67955\
+Marimba Alma De Chiapas De Juan Palacios: 182.02077\
+Eddie Cantor: 196.88444\
+Peter Spence: 277.41995\
+Radney Foster: 208.14322\
+Bellatrax feat. Tina Cousins: 410.90567\
+Stan: 254.95465\
+Patrick Lamb: 290.37669\
+Staatskapelle Dresden/Herbert Blomstedt: 158.92853\
+Ocho y Media: 278.17751\
+Doug Sahm Tex Mex Trip: 307.51302\
+Taste: 362.03057\
+Dhamika: 439.17016\
+The LeRoi Brothers: 126.53669\
+K.T. Oslin: 250.5922\
+Jean Gabin: 193.27955\
+Ross: 68.49261\
+Cheo Feliciano: 269.26975\
+Leon Russel: 259.91791\
+Jo\'e3o Gilberto / Gilberto Gil / Caetano Veloso: 77.00853\
+Kerson: 396.5122\
+The Beatles: 53.78567\
+David Gilmour Featuring Richard Wright: 202.1873\
+Foxy Brown / Total: 287.7122\
+Pinch feat. Rudey Lee: 260.30975\
+Marcelo Radulovich: 267.59791\
+John Stevens: 245.44608\
+F4: 279.32689\
+Cam'Ron / Juelz Santana: 366.05342\
+Jeff Beck Group: 367.46404\
+Minipop: 163.00363\
+NAZCA PERU: 159.45098\
+Sheila Walsh: 332.01587\
+John Hiatt: 239.5424\
+Adrenaline: 231.96689\
+Terminal 11 feat. b.b0Nd: 114.83383\
+Dirty Harry: 559.75138\
+This Or The Apocalypse: 293.66812\
+Rocket From The Tombs: 138.44853\
+Chalk Farm: 294.08608\
+Long John Hunter: 117.83791\
+J.R. Writer_ Jha Jha: 145.10975\
+Adrienne Pierce: 269.63546\
+Kanda Bongo Man: 554.68363\
+Sex Machine: 148.47955\
+Cadet: 267.07546\
+The Tokens: 154.06975\
+Michal: 217.39057\
+This Is Hell: 119.7971\
+Test Icicles: 216.45016\
+Non Phixion: 222.56281\
+Les Bonapartes: 190.69342\
+Rude Boys: 289.95873\
+Dr Bombay: 192.02567\
+Samba Enredo: 202.05669\
+Mich\'e8le Crider;Eleonora Jankovic;Vincenzo La Scola;Riccardo Muti: 225.30567\
+LL Cool J / Freeway: 264.48934\
+Shifty: 192.91383\
+Royal Bubble Orchestra: 184.81587\
+The Wes Montgomery Trio: 246.80444\
+Herbstrock: 203.4673\
+Arthur Fiedler;Earl Wild;Pasquale Cardillo: 976.56118\
+Sven Scholander: 191.42485\
+Miranda Lee Richards: 243.722\
+Busdriver featuring Abstract Rude & Ellay Khule: 255.63383\
+Mick Hucknall: 406.93506\
+Farlow-Kirch Band: 220.13342\
+Nicky B: 184.34567\
+Mr. Grillo: 208.45669\
+The Hokum Boys: 209.73669\
+Karaoke (Made famous by DMX): 218.17424\
+No Address: 286.4322\
+I.N.T.: 152.92036\
+Alturas: 293.90322\
+Patricia Kaas: 247.11791\
+Massimiliano Damerini: 397.81832\
+Vince Guaraldi Trio: 242.9122\
+Harry Connick_ Jr: 192.07791\
+The Dreamtree Project: 798.1971\
+Bruford: 351.42485\
+Sex Machine ft. Sh\'e8na: 418.87302\
+PitchBlack: 292.70159\
+Lil Boosie feat. Bun B_ Trae_ Yo Gotti & Foxx: 318.79791\
+Eyes Cream: 492.30322\
+ZombieSuckers: 62.95465\
+Rincon Morales: 197.0673\
+Will To Will: 508.65587\
+Three-6 Mafia: 159.81669\
+Terry Muska: 113.05751\
+OutKast featuring George Clinton: 311.30077\
+Mars Ill: 287.55546\
+Stickboy: 67.52608\
+Dottie Rambo_ The Whites: 130.29832\
+Commander Cody And His Lost Planet Airman: 199.13098\
+El Presidente: 213.05424\
+Angel Romero / The Academy of St. Martin in the Fields / Iona Brown: 141.322\
+Johnny Kidd And The Pirates: 150.07302\
+Philippe Eidel: 301.11302\
+Daddy Yankee / Bounty Killer: 212.08771\
+Nicola Fasano Feat. Paula B: 445.33506\
+Esser: 191.55546\
+Shade Sheist / DJ Vice / DJ Echo / Damizza: 88.39791\
+Nick Colionne: 215.14404\
+Hermeto Pascoal: 131.36934\
+Carlos Jimenez: 324.98893\
+Alas: 628.21832\
+Sofi Marinova: 190.17098\
+Keb'Mo': 176.5873\
+David Zinman;Pittsburgh Symphony Orchestra: 641.48853\
+Rachael Lampa: 269.00853\
+Tum Tum [DJ Drop Mix]: 87.14404\
+Kurupt_ Rosco_ Jayo Felony & 40 Glocc: 192.86159\
+Tommy McLain: 196.38812\
+Dark Party: 261.58975\
+Hot Live Guys: 138.13506\
+M\'fam: 249.05098\
+Cedric Gervais Featuring Caroline: 396.5122\
+Steve Smith: 404.45342\
+Gene Latter: 167.00036\
+The King Sisters & Alvino Rey: 163.97016\
+Mario Piu': 355.39546\
+Ruffneck: 201.97832\
+The Frantic: 146.15465\
+Bob Sinclar: 342.69995\
+D\'c9SOL\'c9: 145.08363\
+Salieri: 238.81098\
+Louis Prima & Keely Smith: 239.51628\
+Jimmy Hughes: 177.26649\
+Bill Perry: 217.88689\
+F-4: 262.19057\
+Billy Price_ Fred Chapellier: 356.93669\
+Corey / Shaquille O'Neal: 261.45914\
+Maria Bamford: 127.16363\
+Nicholas: 152.68526\
+Jeff & Sheri Easter: 241.99791\
+Tel Basta: 220.36853\
+Epidemic: 205.19138\
+The Gentle Good: 400.48281\
+Tom Collier: 411.42812\
+Sigmatropic: 263.57506\
+Neon Blonde: 170.70975\
+Grace Gale: 247.71873\
+Cauda Pavonis: 205.11302\
+Geddy Lee: 271.46404\
+Frankie J: 273.00526\
+Baby Bash: 309.4722\
+Ray Pillow: 129.12281\
+Dolce; Orange Factory: 419.76118\
+Dave And Ansel Collins: 151.84934\
+Wilks featuring pee wee ellis: 210.80771\
+Omni: 479.9473\
+King Curtis with Jack Dupree: 329.19465\
+Los Morros Del Norte: 130.76853\
+Yuko Kanzaki: 145.8673\
+Moonface: 508.60363\
+Giuseppi Logan: 454.94812\
+Radio Moscow: 255.89506\
+Stille Volk: 276.37506\
+Orchestra e Coro del Palacio de Bellas Artes Di Citt\'e1 del Messico_ Oliviero De Fabritiis_ Maria Call: 370.99057\
+Jim Jones / Max B: 256.39138\
+Byzantine: 300.01587\
+Halfway to Gone: 255.42485\
+Planetakis: 234.73587\
+Yodi's: 300.5122\
+Rev. Timothy Wright: 244.74077\
+The Ghost Of Lemora: 208.69179\
+Earl Hooker: 298.91873\
+Robin Frederick: 272.01261\
+Kanye West / Adam Levine: 204.5122\
+Lou Ann Barton: 241.26649\
+Xzibit featuring Jayo Felony and Method Man: 201.06404\
+EPMD / Nocturnal: 204.5122\
+Lisa Lisa & Cult Jam: 302.75873\
+Ada Jane: 288.80934\
+Ice_ Lucky Luciano_ Filero: 239.93424\
+The Game feat. Jim Jones Camron & Bezell: 210.23302\
+Ashtrax: 278.36036\
+Anna Vissi: 296.30649\
+Daft Punk: 329.53424\
+Take It Back!: 204.90404\
+Thrilla U: 226.95138\
+Tony Murena: 155.14077\
+Jaydee: 265.84771\
+Auf Der Maur: 277.89016\
+Esion Jim: 439.64036\
+Los Fabulosos: 170.26567\
+Drag-On / DMX: 232.82893\
+Geoff Muldaur: 217.88689\
+Crystals: 150.90893\
+Joan Sutherland: 264.12363\
+Guitar Shorty: 817.37098\
+Groove Karma: 206.78485\
+Bebe Winans / Stephanie Mills: 324.93669\
+Florida Boys: 114.62485\
+Sly Dunbar: 225.07057\
+Perrocker: 304.1171\
+Kanye West / Lupe Fiasco: 236.72118\
+Judas Iscariot: 393.89995\
+Melatonin: 233.11628\
+Audio Pyper: 405.52444\
+Alkonost: 542.87628\
+Oliver Lake Quintet: 419.76118\
+A Ghost Devotion: 305.34485\
+Poncho Sanchez / Dianne Reeves: 355.05587\
+The Last Eighth feat. Dumi Right(Zimbabwe Legit) and Skillz: 239.33342\
+Bruce Carroll: 278.41261\
+Spectra Soul: 303.51628\
+SKYCLAD: 361.24689\
+Loudermilk: 272.03873\
+Nickelback featuring Kid Rock: 223.99955\
+Frank Caliendo: 433.47546\
+The Roots / Jaguar: 39.18322\
+Christoper Titus: 119.66649\
+Nikos Xilouris: 109.50485\
+David Andreu: 250.56608\
+D:Fuse vs The Scumfrog: 534.62159\
+Loketo: 291.3171\
+To My Surprise: 175.22893\
+Mississippi Fred McDowell: 226.37669\
+John Cephas & Phil Wiggins: 158.30159\
+Wendy Moten: 230.37342\
+Black History: 251.402\
+Super700: 47.28118\
+Jellyfish: 216.60689\
+Band Of Horses: 205.24363\
+Noemi: 226.37669\
+BassTurk: 259.05587\
+The Mighty Clouds Of Joy: 141.58322\
+Twista Featuring Cee-Lo: 272.50893\
+Mikey General: 220.73424\
+Hef feat. Big2 & Dio: 219.29751\
+Little Capes: 289.64526\
+lextrical: 165.69424\
+Butterfly Temple: 100.5971\
+2-4 Grooves feat. Reki D.: 203.83302\
+Kiril Valeri: 306.72934\
+Shelley Fabares: 143.0722\
+Norrie Paramor: 163.49995\
+Cesar Camargo Mariano/Helio Delmiro: 287.11138\
+Lady May: 214.04689\
+Buzzhorn: 239.98649\
+!!!: 143.98649\
+Yamandu Costa: 190.04036\
+Suzanne Ciani: 239.59465\
+The Nightraver & The Magican: 233.53424\
+Carl Doy with NZSO: 158.56281\
+Rah Digga (Featuring Outsidaz): 256.80934\
+Stevie Ray Vaughan: 248.78975\
+SWAMI featuring Asuivre: 260.28363\
+Pe'z: 252.57751\
+Dame Joan Sutherland / New Philharmonia Orchestra / Richard Bonynge: 111.0722\
+Sticky Fingaz: 266.4224\
+The Black Velvet Band: 256.39138\
+Till West & DJ Delicious: 153.28608\
+Gene Clark: 168.38485\
+Milan Band: 152.0322\
+Sven Tasnadi: 570.90567\
+Toni Braxton Featuring Shaggy: 219.01016\
+Taras: 200.25424\
+Xcultures: 273.52771\
+Heavy D / McGruff: 161.38404\
+Hank Penny & The Lincoln Penny Orchestra: 123.21914\
+Suburbs: 187.24526\
+Smartbomb: 233.27302\
+Nadine Renee: 249.41669\
+The Dirty Skirts: 206.75873\
+Savage Garden: 118.33424\
+Jupiter Rising: 193.4624\
+Saafir: 234.762\
+Dharma Bums: 127.4771\
+Little Joe: 239.01995\
+SUE THOMPSON: 124.86485\
+Mike Jones (Featuring CJ_ Mello & Lil' Bran): 173.66159\
+Five Bolt Main: 225.09669\
+Clp: 338.31138\
+Ladybug: 341.36771\
+Brixx: 349.12608\
+Bandido: 333.13914\
+The Notorious B.I.G.: 316.65587\
+The Secret Life of Teenage Girls: 153.20771\
+Soular: 244.45342\
+Jos\'e9 Augusto: 284.70812\
+Rage Against The Machine: 201.56036\
+Bone Thugs-N-Harmony / Akon: 286.30159\
+Moonsorrow: 356.49261\
+Jan Howard: 165.98159\
+JDS: 465.60608\
+Dolce; Oscar G.: 525.16526\
+Gil Semedo: 285.36118\
+Shakira Featuring Wyclef Jean: 217.36444\
+Ellen McIlwaine: 275.12118\
+Vince Guaraldi / Bola Sete: 294.66077\
+Citizen Kaned: 385.33179\
+Carl Cox Vs Yousef: 357.82485\
+Organized Konfusion: 198.3473\
+Leland Martin: 175.62077\
+Morel: 311.40526\
+DJ X-Change featuring DJ Joey A: 184.31955\
+Howard Armstrong: 198.922\
+Bizarre Inc: 420.10077\
+Aberdeen: 266.70975\
+The Willis Brothers: 150.64771\
+DJ Dips: 240.3522\
+Laurindo Almeida / Carlos Barbosa-Lima / Charlie Byrd: 286.14485\
+Bebo & Cigala: 198.26893\
+Ana Bekuta: 145.57995\
+Tweeterfriendly Music: 189.57016\
+(base) Setty@pa-dhcp-10-120-227-247 Q2 % \
+}
